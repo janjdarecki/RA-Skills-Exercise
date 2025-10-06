@@ -1,0 +1,905 @@
+,ref_name,ref_first,ref_last,elec_name,elec_url,house_or_senate,state,party,start_year,end_year,match
+0,"Mikva, Abner J.",Abner J.,Mikva,,,House,Illinois,Democratic,1969,1981,fail-lastname
+1,"Ribicoff, Abraham A.",Abraham A.,Ribicoff,,,"House,Senate",Connecticut,Democratic,1949,1981,fail-lastname
+2,"Kazen, Abraham, Jr.","Abraham, Jr.",Kazen,,,House,Texas,Democratic,1967,1985,fail-lastname
+3,"Smith, Adam",Adam,Smith,,,House,Washington,Democratic,1997,9999,ambiguous
+4,"Benjamin, Adam, Jr.","Adam, Jr.",Benjamin,,,House,Indiana,Democratic,1977,1983,fail-firstname
+5,"Stevenson, Adlai E., III","Adlai E., III",Stevenson,,,Senate,Illinois,Democratic,1969,1981,fail-firstname
+6,"Ullman, Al",Al,Ullman,,,House,Oregon,Democratic,1957,1981,fail-lastname
+7,"Bible, Alan",Alan,Bible,,,Senate,Nevada,Democratic,1953,1975,fail-lastname
+8,"Cranston, Alan",Alan,Cranston,,,Senate,California,Democratic,1969,1993,fail-lastname
+9,"Steelman, Alan",Alan,Steelman,,,House,Texas,Republican,1973,1977,fail-lastname
+10,"Dixon, Alan J.",Alan J.,Dixon,,,Senate,Illinois,Democratic,1981,1993,fail-firstname
+11,"Simpson, Alan K.",Alan K.,Simpson,,,Senate,Wyoming,Republican,1979,1997,fail-firstname
+12,"Quie, Albert H.",Albert H.,Quie,,,House,Minnesota,Republican,1957,1979,fail-lastname
+13,"Johnson, Albert W.",Albert W.,Johnson,,,House,Pennsylvania,Republican,1963,1977,fail-firstname
+14,"Mooney, Alexander X.",Alexander X.,Mooney,,,House,West Virginia,Republican,2015,2025,only-surname
+15,"Howe, Allan",Allan,Howe,,,House,Utah,Democratic,1975,1977,fail-firstname
+16,"Ertel, Allen E.",Allen E.,Ertel,,,House,Pennsylvania,Democratic,1977,1983,fail-lastname
+17,"Bell, Alphonzo",Alphonzo,Bell,,,House,California,Republican,1961,1977,fail-firstname
+18,"Waldon, Alton R., Jr.","Alton R., Jr.",Waldon,,,House,New York,Democratic,1985,1987,fail-lastname
+19,"Baldus, Alvin J.",Alvin J.,Baldus,,,House,Wisconsin,Democratic,1975,1981,fail-lastname
+20,"Nelsen, Ancher",Ancher,Nelsen,,,House,Minnesota,Republican,1959,1975,fail-lastname
+21,"Maguire, Andrew",Andrew,Maguire,,,House,New Jersey,Democratic,1975,1981,only-surname
+22,"Young, Andrew",Andrew,Young,,,House,Georgia,Democratic,1973,1979,fail-firstname
+23,"Hinshaw, Andrew J.",Andrew J.,Hinshaw,,,House,California,Republican,1973,1977,fail-lastname
+24,"Ireland, Andrew P.",Andrew P.,Ireland,,,House,Florida,Republican,1977,1993,fail-firstname
+25,"Kim, Andy",Andy,Kim,,,"House,Senate",New Jersey,Democratic,2019,9999,ambiguous
+26,"Roncallo, Angelo D.",Angelo D.,Roncallo,,,House,New York,Republican,1973,1975,fail-lastname
+27,"Acevedo-Vila, Anibal",Anibal,Acevedo-Vila,,,House,Puerto Rico,Democratic,2001,2005,only-surname
+28,"Coelho, Anthony Lee",Anthony Lee,Coelho,,,House,California,Democratic,1979,1991,fail-lastname
+29,"Won Pat, Antonio B.",Antonio B.,Won Pat,,,House,Guam,Democratic,1973,1985,only-surname
+30,"Stangeland, Arlan",Arlan,Stangeland,,,House,Minnesota,Republican,1977,1991,fail-lastname
+31,"Erdahl, Arlen",Arlen,Erdahl,,,House,Minnesota,Republican,1979,1983,fail-lastname
+32,"Moody, Ashley",Ashley,Moody,,,Senate,Florida,Republican,2025,9999,fail-firstname
+33,"Hawkins, Augustus F.",Augustus F.,Hawkins,,,House,California,Democratic,1963,1991,fail-firstname
+34,"Sisk, B. F.",B. F.,Sisk,,,House,California,Democratic,1955,1979,fail-lastname
+35,"Corrada, Baltasar",Baltasar,Corrada,,,House,Puerto Rico,Independent,1977,1987,fail-lastname
+36,"Jordan, Barbara",Barbara,Jordan,,,House,Texas,Democratic,1973,1979,fail-firstname
+37,"Conable, Barber B., Jr.","Barber B., Jr.",Conable,,,House,New York,Republican,1965,1985,fail-lastname
+38,"Goldwater, Barry",Barry,Goldwater,,,Senate,Arizona,Republican,1953,1987,only-surname
+39,"Goldwater, Barry, Jr.","Barry, Jr.",Goldwater,,,House,California,Republican,1969,1983,only-surname
+40,"Abzug, Bella S.",Bella S.,Abzug,,,House,New York,Democratic,1971,1977,fail-lastname
+41,"Blackburn, Ben",Ben,Blackburn,,,House,Georgia,Republican,1967,1975,fail-firstname
+42,"Jones, Ben",Ben,Jones,,,House,Georgia,Democratic,1989,1993,ambiguous
+43,"Rosenthal, Benjamin S.",Benjamin S.,Rosenthal,,,House,New York,Democratic,1961,1983,fail-firstname
+44,"Stewart, Bennett McVey",Bennett McVey,Stewart,,,House,Illinois,Democratic,1979,1981,fail-firstname
+45,"Bedell, Berkley W.",Berkley W.,Bedell,,,House,Iowa,Democratic,1975,1987,fail-firstname
+46,"Dwyer, Bernard J.",Bernard J.,Dwyer,,,House,New Jersey,Democratic,1981,1993,fail-firstname
+47,"Podell, Bertram L.",Bertram L.,Podell,,,House,New York,Democratic,1967,1975,fail-lastname
+48,"Anthony, Beryl, Jr.","Beryl, Jr.",Anthony,,,House,Arkansas,Democratic,1979,1993,fail-firstname
+49,"Byron, Beverly B.",Beverly B.,Byron,,,House,Maryland,Democratic,1979,1993,fail-firstname
+50,"Baker, Bill",Bill,Baker,,,House,California,Republican,1993,1997,ambiguous
+51,"Brock, Bill",Bill,Brock,,,"House,Senate",Tennessee,Republican,1963,1977,ambiguous
+52,"Frenzel, Bill",Bill,Frenzel,,,House,Minnesota,Republican,1971,1991,fail-lastname
+53,"Gunter, Bill",Bill,Gunter,,,House,Florida,Democratic,1973,1975,fail-lastname
+54,"Hendon, Bill",Bill,Hendon,,,House,North Carolina,Republican,1981,1987,fail-lastname
+55,"Johnson, Bill",Bill,Johnson,,,House,Ohio,Republican,2011,2024,ambiguous
+56,"Lowery, Bill",Bill,Lowery,,,House,California,Republican,1981,1993,only-surname
+57,"Nichols, Bill",Bill,Nichols,,,House,Alabama,Democratic,1967,1989,fail-firstname
+58,"Schuette, Bill",Bill,Schuette,,,House,Michigan,Republican,1985,1991,fail-lastname
+59,"Burlison, Bill D.",Bill D.,Burlison,,,House,Missouri,Democratic,1969,1981,fail-firstname
+60,"Brewster, Bill K.",Bill K.,Brewster,,,House,Oklahoma,Democratic,1991,1997,ambiguous
+61,"Chappell, Bill, Jr.","Bill, Jr.",Chappell,,,House,Florida,Democratic,1969,1989,fail-lastname
+62,"Long, Billy",Billy,Long,,,House,Missouri,Republican,2011,2023,ambiguous
+63,"Evans, Billy Lee",Billy Lee,Evans,,,House,Georgia,Democratic,1977,1983,fail-firstname
+64,"Bayh, Birch",Birch,Bayh,,,Senate,Indiana,Democratic,1963,1981,only-surname
+65,"Ginn, Bo",Bo,Ginn,,,House,Georgia,Democratic,1973,1983,only-surname
+66,"Bergland, Bob",Bob,Bergland,,,House,Minnesota,Republican,1971,1979,only-surname
+67,"Carr, Bob",Bob,Carr,,,House,Michigan,Democratic,1975,1995,ambiguous
+68,"Eckhardt, Bob",Bob,Eckhardt,,,House,Texas,Democratic,1967,1981,only-surname
+69,"Graham, Bob",Bob,Graham,,,Senate,Florida,Democratic,1987,2005,fail-firstname
+70,"Smith, Bob",Bob,Smith,,,"House,Senate",New Hampshire,Republican,1985,2003,ambiguous
+71,"Traxler, Bob",Bob,Traxler,,,House,Michigan,Democratic,1973,1993,fail-lastname
+72,"Whittaker, Bob",Bob,Whittaker,,,House,Kansas,Republican,1979,1991,only-surname
+73,"Fiedler, Bobbi",Bobbi,Fiedler,,,House,California,Republican,1981,1987,fail-lastname
+74,"Donnelly, Brian J.",Brian J.,Donnelly,,,House,Massachusetts,Democratic,1979,1993,fail-firstname
+75,"Adams, Brock",Brock,Adams,,,"House,Senate",Washington,Democratic,1965,1993,fail-firstname
+76,"Morrison, Bruce A.",Bruce A.,Morrison,,,House,Connecticut,Democratic,1983,1991,fail-firstname
+77,"Caputo, Bruce F.",Bruce F.,Caputo,,,House,New York,Republican,1977,1979,fail-lastname
+78,"Shuster, Bud",Bud,Shuster,,,House,Pennsylvania,Republican,1973,2001,fail-firstname
+79,"MacKay, Buddy",Buddy,MacKay,,,House,Florida,Democratic,1983,1989,fail-lastname
+80,"Roemer, Buddy",Buddy,Roemer,,,House,Louisiana,Democratic,1981,1989,only-surname
+81,"Talcott, Burt L.",Burt L.,Talcott,,,House,California,Republican,1963,1977,fail-lastname
+82,"Albert, Carl",Carl,Albert,,,House,Oklahoma,Democratic,1947,1977,only-surname
+83,"Perkins, Carl C.",Carl C.,Perkins,,,House,Kentucky,Democratic,1984,1993,fail-firstname
+84,"Pursell, Carl D.",Carl D.,Pursell,,,House,Michigan,Republican,1977,1993,fail-lastname
+85,"Perkins, Carl Dewey",Carl Dewey,Perkins,,,House,Kentucky,Democratic,1949,1985,fail-firstname
+86,"Curtis, Carl T.",Carl T.,Curtis,,,"House,Senate",Nebraska,Republican,1939,1979,fail-firstname
+87,"King, Carleton J.",Carleton J.,King,,,House,New York,Republican,1961,1975,fail-firstname
+88,"Miller, Carol D.",Carol D.,Miller,,,House,West Virginia,Republican,2019,9999,ambiguous
+89,"Campbell, Carroll A., Jr.","Carroll A., Jr.",Campbell,,,House,South Carolina,Republican,1979,1987,fail-firstname
+90,"Hubbard, Carroll, Jr.","Carroll, Jr.",Hubbard,,,House,Kentucky,Democratic,1975,1993,fail-firstname
+91,"Goodwin, Carte Patrick",Carte Patrick,Goodwin,,,Senate,West Virginia,Democratic,2010,2010,fail-firstname
+92,"Long, Cathy (Mrs. Gillis)",Cathy (Mrs. Gillis),Long,,,House,Louisiana,Democratic,1985,1987,fail-firstname
+93,"Heftel, Cecil",Cecil,Heftel,,,House,Hawaii,Democratic,1977,1987,fail-lastname
+94,"Wylie, Chalmers P.",Chalmers P.,Wylie,,,House,Ohio,Republican,1967,1993,fail-lastname
+95,"Hatcher, Charles",Charles,Hatcher,,,House,Georgia,Democratic,1981,1993,fail-lastname
+96,"Luken, Charles",Charles,Luken,,,House,Ohio,Democratic,1991,1993,fail-lastname
+97,"Thone, Charles",Charles,Thone,,,House,Nebraska,Republican,1971,1979,fail-lastname
+98,"Wilson, Charles",Charles,Wilson,,,House,Texas,Democratic,1973,1997,ambiguous
+99,"Hayes, Charles A.",Charles A.,Hayes,,,House,Illinois,Democratic,1983,1993,fail-firstname
+100,"Mosher, Charles A.",Charles A.,Mosher,,,House,Ohio,Republican,1961,1977,fail-firstname
+101,"Vanik, Charles A.",Charles A.,Vanik,,,House,Ohio,Democratic,1955,1981,fail-lastname
+102,"Wilson, Charles A.",Charles A.,Wilson,,,House,Ohio,Democratic,2007,2011,ambiguous
+103,"Diggs, Charles C., Jr.","Charles C., Jr.",Diggs,,,House,Michigan,Democratic,1955,1981,fail-lastname
+104,"Bennett, Charles E.",Charles E.,Bennett,,,House,Florida,Democratic,1949,1993,fail-firstname
+105,"Chamberlain, Charles E.",Charles E.,Chamberlain,,,House,Michigan,Republican,1957,1975,only-surname
+106,"Wiggins, Charles E.",Charles E.,Wiggins,,,House,California,Republican,1967,1979,fail-firstname
+107,"Bass, Charles F.",Charles F.,Bass,,,House,New Hampshire,Republican,1995,2013,ambiguous
+108,"Percy, Charles H.",Charles H.,Percy,,,Senate,Illinois,Republican,1967,1985,fail-lastname
+109,"Wilson, Charles H.",Charles H.,Wilson,,,House,California,Democratic,1963,1981,ambiguous
+110,"Carney, Charles J.",Charles J.,Carney,,,House,Ohio,Democratic,1969,1979,fail-firstname
+111,"Teague, Charles M.",Charles M.,Teague,,,House,California,Republican,1955,1975,fail-firstname
+112,"Mathias, Charles McC., Jr.","Charles McC., Jr.",Mathias,,,"House,Senate",Maryland,Republican,1961,1987,only-surname
+113,"Whitley, Charles O., Sr.","Charles O., Sr.",Whitley,,,House,North Carolina,Democratic,1977,1987,fail-lastname
+114,"Gubser, Charles S.",Charles S.,Gubser,,,House,California,Republican,1953,1975,fail-lastname
+115,"Sandman, Charles W., Jr.","Charles W., Jr.",Sandman,,,House,New Jersey,Republican,1967,1975,only-surname
+116,"Whalen, Charles W., Jr.","Charles W., Jr.",Whalen,,,House,Ohio,Republican,1967,1979,fail-firstname
+117,"Pashayan, Charles, Jr.","Charles, Jr.",Pashayan,,,House,California,Republican,1979,1991,fail-lastname
+118,"Atkins, Chester G.",Chester G.,Atkins,,,House,Massachusetts,Democratic,1985,1993,only-surname
+119,"Holifield, Chet",Chet,Holifield,,,House,California,Democratic,1943,1975,fail-lastname
+120,"Hecht, Chic",Chic,Hecht,,,Senate,Nevada,Republican,1983,1989,fail-firstname
+121,"Collins, Chris",Chris,Collins,,,House,New York,Republican,2013,2019,ambiguous
+122,"Cox, Christopher",Christopher,Cox,,,House,California,Republican,1989,2007,ambiguous
+123,"Bond, Christopher S.",Christopher S.,Bond,,,Senate,Missouri,Republican,1987,2011,fail-firstname
+124,"Douglas, Chuck",Chuck,Douglas,,,House,New Hampshire,Republican,1989,1991,fail-firstname
+125,"Pell, Claiborne",Claiborne,Pell,,,Senate,Rhode Island,Democratic,1961,1997,only-surname
+126,"Burgener, Clair W.",Clair W.,Burgener,,,House,California,Republican,1973,1983,fail-lastname
+127,"Long, Clarence D.",Clarence D.,Long,,,House,Maryland,Democratic,1963,1985,fail-firstname
+128,"Miller, Clarence E.",Clarence E.,Miller,,,House,Ohio,Republican,1967,1993,fail-firstname
+129,"Brown, Clarence, Jr.","Clarence, Jr.",Brown,,,House,Ohio,Republican,1965,1983,fail-firstname
+130,"Harris, Claude",Claude,Harris,,,House,Alabama,Democratic,1987,1993,fail-firstname
+131,"Pepper, Claude",Claude,Pepper,,,"House,Senate",Florida,Democratic,1935,1991,only-surname
+132,"Leach, Claude (Buddy), Jr.","Claude (Buddy), Jr.",Leach,,,House,Louisiana,Democratic,1979,1981,fail-firstname
+133,"Schneider, Claudine",Claudine,Schneider,,,House,Rhode Island,Republican,1981,1991,fail-firstname
+134,"McSpadden, Clem Rogers",Clem Rogers,McSpadden,,,House,Oklahoma,Democratic,1973,1975,only-surname
+135,"Zablocki, Clement J.",Clement J.,Zablocki,,,House,Wisconsin,Democratic,1949,1985,fail-lastname
+136,"Benedict, Cleve",Cleve,Benedict,,,House,West Virginia,Republican,1981,1983,fail-firstname
+137,"Case, Clifford P.",Clifford P.,Case,,,"House,Senate",New Jersey,Republican,1945,1979,fail-firstname
+138,"Hansen, Clifford P.",Clifford P.,Hansen,,,Senate,Wyoming,Republican,1967,1979,fail-firstname
+139,"Allen, Clifford R.",Clifford R.,Allen,,,House,Tennessee,Democratic,1975,1979,fail-firstname
+140,"Roberts, Clint",Clint,Roberts,,,House,South Dakota,Republican,1981,1983,fail-firstname
+141,"Mack, Connie",Connie,Mack,,,House,Florida,Republican,2005,2013,ambiguous
+142,"Mack, Connie, III","Connie, III",Mack,,,"House,Senate",Florida,Republican,1983,2001,ambiguous
+143,"Evans, Cooper",Cooper,Evans,,,House,Iowa,Republican,1981,1987,fail-firstname
+144,"Boggs, Corinne C. (Lindy)",Corinne C. (Lindy),Boggs,,,House,Louisiana,Democratic,1973,1991,fail-firstname
+145,"Hosmer, Craig",Craig,Hosmer,,,House,California,Republican,1953,1975,fail-lastname
+146,"James, Craig T.",Craig T.,James,,,House,Florida,Republican,1989,1993,fail-firstname
+147,"Slaughter, D. French, Jr.","D. French, Jr.",Slaughter,,,House,Virginia,Republican,1985,1993,fail-firstname
+148,"Milford, Dale",Dale,Milford,,,House,Texas,Democratic,1973,1979,fail-lastname
+149,"Quayle, Dan",Dan,Quayle,,,"House,Senate",Indiana,Republican,1977,1991,only-surname
+150,"Sullivan, Dan",Dan,Sullivan,,,Senate,Alaska,Republican,2015,9999,ambiguous
+151,"Kuykendall, Dan H.",Dan H.,Kuykendall,,,House,Tennessee,Republican,1967,1975,only-surname
+152,"Mica, Daniel Andrew",Daniel Andrew,Mica,,,House,Florida,Democratic,1979,1989,only-surname
+153,"Crane, Daniel B.",Daniel B.,Crane,,,House,Illinois,Republican,1979,1985,fail-firstname
+154,"Evans, Daniel J.",Daniel J.,Evans,,,Senate,Washington,Republican,1983,1989,fail-firstname
+155,"Flood, Daniel J.",Daniel J.,Flood,,,House,Pennsylvania,Democratic,1945,1981,fail-firstname
+156,"Davis, Danny K.",Danny K.,Davis,,,House,Illinois,Democratic,1997,9999,ambiguous
+157,"Fascell, Dante B.",Dante B.,Fascell,,,House,Florida,Democratic,1955,1993,fail-lastname
+158,"Durenberger, Dave",Dave,Durenberger,,,Senate,Minnesota,Republican,1977,1995,fail-lastname
+159,"Davis, David",David,Davis,,,House,Tennessee,Republican,2007,2009,ambiguous
+160,"Towell, David",David,Towell,,,House,Nevada,Republican,1973,1975,fail-lastname
+161,"Young, David",David,Young,,,House,Iowa,Republican,2015,2019,ambiguous
+162,"Stockman, David A.",David A.,Stockman,,,House,Michigan,Republican,1977,1983,fail-firstname
+163,"Marriott, David Daniel",David Daniel,Marriott,,,House,Utah,Republican,1977,1985,fail-lastname
+164,"Satterfield, David E., III","David E., III",Satterfield,,,House,Virginia,Democratic,1965,1981,fail-lastname
+165,"Emery, David F.",David F.,Emery,,,House,Maine,Republican,1975,1983,fail-firstname
+166,"Pryor, David H.",David H.,Pryor,,,"House,Senate",Arkansas,Democratic,1965,1997,fail-firstname
+167,"Taylor, David J.",David J.,Taylor,,,House,Ohio,Republican,2025,9999,ambiguous
+168,"Karnes, David K.",David K.,Karnes,,,Senate,Nebraska,Republican,1987,1989,fail-lastname
+169,"Boren, David L.",David L.,Boren,,,Senate,Oklahoma,Democratic,1979,1995,fail-firstname
+170,"Cornwell, David L.",David L.,Cornwell,,,House,Indiana,Democratic,1977,1979,fail-lastname
+171,"Sweeney, David McCann",David McCann,Sweeney,,,House,Texas,Republican,1985,1989,fail-firstname
+172,"Staton, David Michael",David Michael,Staton,,,House,West Virginia,Republican,1981,1983,only-surname
+173,"Henderson, David N.",David N.,Henderson,,,House,North Carolina,Democratic,1961,1977,fail-firstname
+174,"Martin, David O'B.",David O'B.,Martin,,,House,New York,Republican,1981,1993,fail-firstname
+175,"Joyce, David P.",David P.,Joyce,,,House,Ohio,Republican,2013,9999,ambiguous
+176,"Roe, David P.",David P.,Roe,,,House,Tennessee,Republican,2009,2021,fail-firstname
+177,"Monson, David S.",David S.,Monson,,,House,Utah,Republican,1985,1987,fail-lastname
+178,"Martin, David T.",David T.,Martin,,,House,Nebraska,Republican,1961,1975,fail-firstname
+179,"Dennis, David W.",David W.,Dennis,,,House,Indiana,Republican,1969,1975,fail-firstname
+180,"Evans, David W.",David W.,Evans,,,House,Indiana,Democratic,1975,1983,fail-firstname
+181,"Mathis, Dawson",Dawson,Mathis,,,House,Georgia,Democratic,1971,1981,fail-firstname
+182,"Haaland, Debra A.",Debra A.,Haaland,,,House,New Mexico,Democratic,2019,2021,only-surname
+183,"Clawson, Del",Del,Clawson,,,House,California,Republican,1963,1979,fail-firstname
+184,"Latta, Delbert L.",Delbert L.,Latta,,,House,Ohio,Republican,1959,1989,only-surname
+185,"DeConcini, Dennis",Dennis,DeConcini,,,Senate,Arizona,Democratic,1977,1995,fail-lastname
+186,"Eckart, Dennis E.",Dennis E.,Eckart,,,House,Ohio,Democratic,1981,1993,fail-lastname
+187,"Hertel, Dennis M.",Dennis M.,Hertel,,,House,Michigan,Democratic,1981,1993,fail-firstname
+188,"Smith, Denny",Denny,Smith,,,House,Oregon,Republican,1981,1991,fail-firstname
+189,"Bartlett, Dewey F.",Dewey F.,Bartlett,,,Senate,Oklahoma,Republican,1973,1979,fail-firstname
+190,"Cheney, Dick",Dick,Cheney,,,House,Wyoming,Republican,1979,1991,fail-firstname
+191,"Clark, Dick",Dick,Clark,,,Senate,Iowa,Democratic,1973,1979,fail-firstname
+192,"Nichols, Dick",Dick,Nichols,,,House,Kansas,Republican,1991,1993,fail-firstname
+193,"Shoup, Dick",Dick,Shoup,,,House,Montana,Republican,1971,1975,fail-lastname
+194,"Daniels, Dominick V.",Dominick V.,Daniels,,,House,New Jersey,Democratic,1959,1977,fail-firstname
+195,"Bonker, Don",Don,Bonker,,,House,Washington,Democratic,1975,1989,fail-lastname
+196,"Fuqua, Don",Don,Fuqua,,,House,Florida,Democratic,1963,1987,fail-lastname
+197,"Johnson, Don",Don,Johnson,,,House,Georgia,Democratic,1993,1995,ambiguous
+198,"Clausen, Don H.",Don H.,Clausen,,,House,California,Republican,1963,1983,fail-lastname
+199,"Stewart, Donald",Donald,Stewart,,,Senate,Alabama,Democratic,1977,1981,fail-firstname
+200,"Bailey, Donald A.",Donald A.,Bailey,,,House,Pennsylvania,Democratic,1979,1983,fail-firstname
+201,"Clancy, Donald D.",Donald D.,Clancy,,,House,Ohio,Republican,1961,1977,only-surname
+202,"Lukens, Donald E.",Donald E.,Lukens,,,House,Ohio,Republican,1967,1991,only-surname
+203,"Brotzman, Donald G.",Donald G.,Brotzman,,,House,Colorado,Republican,1963,1975,fail-lastname
+204,"Davis, Donald G.",Donald G.,Davis,,,House,North Carolina,Democratic,2023,9999,ambiguous
+205,"Albosta, Donald J.",Donald J.,Albosta,,,House,Michigan,Democratic,1979,1985,fail-lastname
+206,"Mitchell, Donald J.",Donald J.,Mitchell,,,House,New York,Republican,1973,1983,fail-firstname
+207,"Pease, Donald J.",Donald J.,Pease,,,House,Ohio,Democratic,1977,1993,only-surname
+208,"Fraser, Donald M.",Donald M.,Fraser,,,House,Minnesota,Democratic,1963,1979,fail-firstname
+209,"Payne, Donald M.",Donald M.,Payne,,,House,New Jersey,Democratic,1989,2024,ambiguous
+210,"Riegle, Donald W., Jr.","Donald W., Jr.",Riegle,,,"House,Senate",Michigan,Democratic,1967,1995,fail-lastname
+211,"Jones, Doug",Doug,Jones,,,Senate,Alabama,Democratic,2018,2021,ambiguous
+212,"Walgren, Doug",Doug,Walgren,,,House,Pennsylvania,Democratic,1977,1991,fail-lastname
+213,"Barnard, Doug, Jr.","Doug, Jr.",Barnard,,,House,Georgia,Democratic,1977,1993,only-surname
+214,"Applegate, Douglas",Douglas,Applegate,,,House,Ohio,Democratic,1977,1995,ambiguous
+215,"Bosco, Douglas H.",Douglas H.,Bosco,,,House,California,Democratic,1983,1991,fail-lastname
+216,"Hunter, Duncan",Duncan,Hunter,,,House,California,Republican,1981,2009,ambiguous
+217,"Hunter, Duncan D.",Duncan D.,Hunter,,,House,California,Republican,2009,2020,ambiguous
+218,"Garn, E. J. (Jake)",E. J. (Jake),Garn,,,Senate,Utah,Republican,1975,1993,fail-lastname
+219,"Ruth, Earl B.",Earl B.,Ruth,,,House,North Carolina,Republican,1969,1975,fail-firstname
+220,"Landgrebe, Earl F.",Earl F.,Landgrebe,,,House,Indiana,Republican,1969,1975,fail-lastname
+221,"Bethune, Ed",Ed,Bethune,,,House,Arkansas,Republican,1979,1985,fail-lastname
+222,"Jones, Ed",Ed,Jones,,,House,Tennessee,Democratic,1969,1989,fail-firstname
+223,"Weber, Ed",Ed,Weber,,,House,Ohio,Republican,1981,1983,fail-firstname
+224,"Jenkins, Edgar L.",Edgar L.,Jenkins,,,House,Georgia,Democratic,1977,1993,fail-firstname
+225,"Green, Edith",Edith,Green,,,House,Oregon,Democratic,1955,1975,fail-firstname
+226,"Muskie, Edmund S.",Edmund S.,Muskie,,,Senate,Maine,Democratic,1959,1981,fail-lastname
+227,"Beard, Edward",Edward,Beard,,,House,Rhode Island,Democratic,1975,1981,fail-firstname
+228,"Hutchinson, Edward",Edward,Hutchinson,,,House,Michigan,Republican,1963,1977,fail-firstname
+229,"Mezvinsky, Edward",Edward,Mezvinsky,,,House,Iowa,Democratic,1973,1977,only-surname
+230,"Young, Edward",Edward,Young,,,House,South Carolina,Republican,1973,1975,fail-firstname
+231,"Zorinsky, Edward",Edward,Zorinsky,,,Senate,Nebraska,Democratic,1977,1989,fail-lastname
+232,"Kaufman, Edward E.",Edward E.,Kaufman,,,Senate,Delaware,Democratic,2009,2010,only-surname
+233,"Feighan, Edward F.",Edward F.,Feighan,,,House,Ohio,Democratic,1983,1993,fail-lastname
+234,"Biester, Edward G., Jr.","Edward G., Jr.",Biester,,,House,Pennsylvania,Republican,1967,1977,fail-lastname
+235,"Derwinski, Edward J.",Edward J.,Derwinski,,,House,Illinois,Republican,1959,1983,fail-lastname
+236,"Gurney, Edward J.",Edward J.,Gurney,,,"House,Senate",Florida,Republican,1963,1975,fail-lastname
+237,"Patten, Edward J.",Edward J.,Patten,,,House,New Jersey,Democratic,1963,1981,fail-lastname
+238,"Stack, Edward J.",Edward J.,Stack,,,House,Florida,Democratic,1979,1981,fail-lastname
+239,"Boland, Edward P.",Edward P.,Boland,,,House,Massachusetts,Democratic,1953,1989,only-surname
+240,"Madigan, Edward R.",Edward R.,Madigan,,,House,Illinois,Republican,1973,1993,only-surname
+241,"Roybal, Edward R.",Edward R.,Roybal,,,House,California,Democratic,1963,1993,only-surname
+242,"Brooke, Edward W.",Edward W.,Brooke,,,Senate,Massachusetts,Republican,1967,1979,fail-lastname
+243,"Pattison, Edward W.",Edward W.,Pattison,,,House,New York,Democratic,1975,1979,fail-lastname
+244,"Forsythe, Edwin B.",Edwin B.,Forsythe,,,House,New Jersey,Republican,1969,1985,only-surname
+245,"Eshleman, Edwin D.",Edwin D.,Eshleman,,,House,Pennsylvania,Republican,1967,1977,fail-lastname
+246,"Zschau, Edwin V. W.",Edwin V. W.,Zschau,,,House,California,Republican,1983,1987,fail-lastname
+247,"Rudd, Eldon D.",Eldon D.,Rudd,,,House,Arizona,Republican,1977,1987,fail-lastname
+248,"Cederberg, Elford A.",Elford A.,Cederberg,,,House,Michigan,Republican,1953,1979,fail-lastname
+249,"Holtzman, Elizabeth",Elizabeth,Holtzman,,,House,New York,Democratic,1973,1981,fail-lastname
+250,"Grasso, Ella T.",Ella T.,Grasso,,,House,Connecticut,Democratic,1971,1975,only-surname
+251,"Levitas, Elliott H.",Elliott H.,Levitas,,,House,Georgia,Democratic,1975,1985,fail-lastname
+252,"Hillis, Elwood H.",Elwood H.,Hillis,,,House,Indiana,Republican,1971,1987,fail-lastname
+253,"Waldholtz, Enid Greene",Enid Greene,Waldholtz,,,House,Utah,Republican,1995,1997,fail-lastname
+254,"Crawford, Eric A. ""Rick""","Eric A. ""Rick""",Crawford,,,House,Arkansas,Republican,2011,9999,ambiguous
+255,"Konnyu, Ernest L.",Ernest L.,Konnyu,,,House,California,Republican,1987,1989,fail-lastname
+256,"Johnston, Eugene (Gene)",Eugene (Gene),Johnston,,,House,North Carolina,Republican,1981,1983,fail-firstname
+257,"Chappie, Eugene A.",Eugene A.,Chappie,,,House,California,Republican,1981,1987,fail-lastname
+258,"Atkinson, Eugene V.",Eugene V.,Atkinson,,,House,Pennsylvania,Democratic,1979,1983,fail-firstname
+259,"Hebert, F. Edward",F. Edward,Hebert,,,House,Louisiana,Democratic,1941,1977,fail-firstname
+260,"St Germain, Fernand J.",Fernand J.,St Germain,,,House,Rhode Island,Democratic,1961,1989,fail-firstname
+261,"Fithian, Floyd J.",Floyd J.,Fithian,,,House,Indiana,Democratic,1975,1983,fail-lastname
+262,"Haskell, Floyd K.",Floyd K.,Haskell,,,Senate,Colorado,Democratic,1973,1979,only-surname
+263,"Hicks, Floyd V.",Floyd V.,Hicks,,,House,Washington,Democratic,1965,1977,fail-firstname
+264,"Sunia, Foto I. F.",Foto I. F.,Sunia,,,House,American Samoa,Democratic,1981,1989,fail-lastname
+265,"Annunzio, Frank",Frank,Annunzio,,,House,Illinois,Democratic,1965,1993,only-surname
+266,"Brasco, Frank",Frank,Brasco,,,House,New York,Democratic,1967,1975,fail-lastname
+267,"Church, Frank",Frank,Church,,,Senate,Idaho,Democratic,1957,1981,fail-lastname
+268,"Harrison, Frank",Frank,Harrison,,,House,Pennsylvania,Democratic,1983,1985,fail-firstname
+269,"Stubblefield, Frank A.",Frank A.,Stubblefield,,,House,Kentucky,Democratic,1959,1975,fail-lastname
+270,"Lucas, Frank D.",Frank D.,Lucas,,,House,Oklahoma,Republican,1993,9999,ambiguous
+271,"Denholm, Frank E.",Frank E.,Denholm,,,House,South Dakota,Democratic,1971,1975,fail-lastname
+272,"Evans, Frank E.",Frank E.,Evans,,,House,Colorado,Democratic,1965,1979,fail-firstname
+273,"Moss, Frank E.",Frank E.,Moss,,,Senate,Utah,Democratic,1959,1977,fail-firstname
+274,"Guarini, Frank J.",Frank J.,Guarini,,,House,New Jersey,Democratic,1979,1993,only-surname
+275,"Horton, Frank J.",Frank J.,Horton,,,House,New York,Republican,1963,1993,fail-firstname
+276,"Clark, Frank M.",Frank M.,Clark,,,House,Pennsylvania,Democratic,1955,1975,fail-firstname
+277,"Thompson, Fred",Fred,Thompson,,,Senate,Tennessee,Republican,1994,2003,ambiguous
+278,"Rooney, Fred B.",Fred B.,Rooney,,,House,Pennsylvania,Democratic,1963,1979,fail-firstname
+279,"Eckert, Fred J.",Fred J.,Eckert,,,House,New York,Republican,1985,1987,fail-lastname
+280,"Richmond, Frederick W.",Frederick W.,Richmond,,,House,New York,Democratic,1975,1983,only-surname
+281,"Taylor, G.",G.,Taylor,,,House,Missouri,Republican,1973,1989,fail-firstname
+282,"Butterfield, G. K.",G. K.,Butterfield,,,House,North Carolina,Democratic,2004,2022,only-surname
+283,"Montgomery, G. V. (Sonny)",G. V. (Sonny),Montgomery,,,House,Mississippi,Democratic,1967,1997,fail-firstname
+284,"Whitehurst, G. William",G. William,Whitehurst,,,House,Virginia,Republican,1969,1987,fail-lastname
+285,"McGee, Gale W.",Gale W.,McGee,,,Senate,Wyoming,Democratic,1959,1977,fail-firstname
+286,"Shriver, Garner E.",Garner E.,Shriver,,,House,Kansas,Republican,1961,1977,fail-lastname
+287,"Brown, Garry E.",Garry E.,Brown,,,House,Michigan,Republican,1967,1979,fail-firstname
+288,"Myers, Gary A.",Gary A.,Myers,,,House,Pennsylvania,Republican,1975,1979,fail-firstname
+289,"Hart, Gary W.",Gary W.,Hart,,,Senate,Colorado,Democratic,1975,1987,fail-firstname
+290,"Nelson, Gaylord",Gaylord,Nelson,,,Senate,Wisconsin,Democratic,1963,1981,fail-firstname
+291,"Aiken, George",George,Aiken,,,Senate,Vermont,Republican,1941,1975,only-surname
+292,"McGovern, George",George,McGovern,,,"House,Senate",South Dakota,Democratic,1957,1981,fail-firstname
+293,"Goodling, George A.",George A.,Goodling,,,House,Pennsylvania,Republican,1961,1975,only-surname
+294,"Wortley, George C.",George C.,Wortley,,,House,New York,Republican,1981,1989,fail-lastname
+295,"Danielson, George E.",George E.,Danielson,,,House,California,Democratic,1971,1983,fail-lastname
+296,"Shipley, George E.",George E.,Shipley,,,House,Illinois,Democratic,1959,1979,only-surname
+297,"Mahon, George H.",George H.,Mahon,,,House,Texas,Democratic,1935,1979,fail-lastname
+298,"Mitchell, George J.",George J.,Mitchell,,,Senate,Maine,Democratic,1979,1995,fail-firstname
+299,"Helmy, George S.",George S.,Helmy,,,Senate,New Jersey,Democratic,2024,2024,fail-lastname
+300,"LeMieux, George S.",George S.,LeMieux,,,Senate,Florida,Republican,2009,2011,fail-lastname
+301,"Hansen, George V.",George V.,Hansen,,,House,Idaho,Republican,1965,1985,fail-firstname
+302,"Crockett, George W., Jr.","George W., Jr.",Crockett,,,House,Michigan,Democratic,1979,1991,fail-firstname
+303,"Ford, Gerald R., Jr.","Gerald R., Jr.",Ford,,,House,Michigan,Republican,1949,1975,fail-firstname
+304,"Ferraro, Geraldine A.",Geraldine A.,Ferraro,,,House,New York,Democratic,1979,1985,fail-lastname
+305,"Gude, Gilbert",Gilbert,Gude,,,House,Maryland,Republican,1967,1977,fail-lastname
+306,"Long, Gillis W.",Gillis W.,Long,,,House,Louisiana,Democratic,1963,1987,fail-firstname
+307,"Spellman, Gladys Noon",Gladys Noon,Spellman,,,House,Maryland,Democratic,1975,1983,fail-lastname
+308,"Thompson, Glenn",Glenn,Thompson,,,House,Pennsylvania,Republican,2009,9999,fail-firstname
+309,"Anderson, Glenn M.",Glenn M.,Anderson,,,House,California,Democratic,1969,1993,fail-firstname
+310,"Davis, Glenn R.",Glenn R.,Davis,,,House,Wisconsin,Republican,1947,1975,fail-firstname
+311,"Byron, Goodloe E.",Goodloe E.,Byron,,,House,Maryland,Democratic,1971,1979,fail-firstname
+312,"Humphrey, Gordon J.",Gordon J.,Humphrey,,,Senate,New Hampshire,Republican,1979,1991,only-surname
+313,"Ganske, Greg",Greg,Ganske,,,House,Iowa,Republican,1995,2003,only-surname
+314,"Lopez, Greg",Greg,Lopez,,,House,Colorado,Republican,2024,2025,fail-firstname
+315,"Carman, Gregory W.",Gregory W.,Carman,,,House,New York,Republican,1981,1983,fail-lastname
+316,"Savage, Gus",Gus,Savage,,,House,Illinois,Democratic,1981,1993,fail-firstname
+317,"Yatron, Gus",Gus,Yatron,,,House,Pennsylvania,Democratic,1969,1993,fail-lastname
+318,"Molinari, Guy",Guy,Molinari,,,House,New York,Republican,1981,1991,only-surname
+319,"Vander Jagt, Guy",Guy,Vander Jagt,,,House,Michigan,Republican,1965,1993,fail-lastname
+320,"Gross, H. R.",H. R.,Gross,,,House,Iowa,Republican,1949,1975,fail-firstname
+321,"Daub, Hal",Hal,Daub,,,House,Nebraska,Republican,1981,1989,fail-lastname
+322,"Mathews, Harlan",Harlan,Mathews,,,Senate,Tennessee,Democratic,1993,1995,only-surname
+323,"Washington, Harold",Harold,Washington,,,House,Illinois,Democratic,1981,1985,fail-firstname
+324,"Hollenbeck, Harold C.",Harold C.,Hollenbeck,,,House,New Jersey,Republican,1977,1983,only-surname
+325,"Donohue, Harold D.",Harold D.,Donohue,,,House,Massachusetts,Democratic,1947,1975,fail-firstname
+326,"Ford, Harold E.",Harold E.,Ford,,,House,Tennessee,Democratic,1975,1997,ambiguous
+327,"Hughes, Harold E.",Harold E.,Hughes,,,Senate,Iowa,Democratic,1969,1975,fail-firstname
+328,"Runnels, Harold L.",Harold L.,Runnels,,,House,New Mexico,Democratic,1971,1981,fail-lastname
+329,"Collier, Harold R.",Harold R.,Collier,,,House,Illinois,Republican,1957,1975,fail-firstname
+330,"Sawyer, Harold S.",Harold S.,Sawyer,,,House,Michigan,Republican,1977,1985,fail-firstname
+331,"Froehlich, Harold V.",Harold V.,Froehlich,,,House,Wisconsin,Republican,1973,1975,fail-lastname
+332,"Williams, Harrison A., Jr.","Harrison A., Jr.",Williams,,,"House,Senate",New Jersey,Democratic,1953,1982,fail-firstname
+333,"Schmitt, Harrison H.",Harrison H.,Schmitt,,,Senate,New Mexico,Republican,1977,1983,fail-firstname
+334,"Meyner, Helen S.",Helen S.,Meyner,,,House,New Jersey,Democratic,1975,1979,fail-lastname
+335,"Helstoski, Henry",Henry,Helstoski,,,House,New Jersey,Democratic,1965,1977,fail-lastname
+336,"Nowak, Henry",Henry,Nowak,,,House,New York,Democratic,1975,1993,only-surname
+337,"Bellmon, Henry L.",Henry L.,Bellmon,,,Senate,Oklahoma,Republican,1969,1981,fail-lastname
+338,"Jackson, Henry M.",Henry M.,Jackson,,,"House,Senate",Washington,Democratic,1941,1985,fail-firstname
+339,"Smith, Henry P., III","Henry P., III",Smith,,,House,New York,Republican,1965,1975,fail-firstname
+340,"Reuss, Henry S.",Henry S.,Reuss,,,House,Wisconsin,Democratic,1955,1983,fail-lastname
+341,"Harris, Herbert E., II","Herbert E., II",Harris,,,House,Virginia,Democratic,1975,1981,fail-firstname
+342,"Badillo, Herman",Herman,Badillo,,,House,New York,Democratic,1971,1979,fail-lastname
+343,"Talmadge, Herman E.",Herman E.,Talmadge,,,Senate,Georgia,Democratic,1957,1981,fail-lastname
+344,"Schneebeli, Herman T.",Herman T.,Schneebeli,,,House,Pennsylvania,Republican,1959,1977,fail-lastname
+345,"Fong, Hiram L.",Hiram L.,Fong,,,Senate,Hawaii,Republican,1959,1977,fail-firstname
+346,"Nielson, Howard C.",Howard C.,Nielson,,,House,Utah,Republican,1983,1991,fail-lastname
+347,"Wolpe, Howard E.",Howard E.,Wolpe,,,House,Michigan,Democratic,1979,1993,fail-lastname
+348,"Baker, Howard H., Jr.","Howard H., Jr.",Baker,,,Senate,Tennessee,Republican,1967,1985,fail-firstname
+349,"Metzenbaum, Howard M.",Howard M.,Metzenbaum,,,Senate,Ohio,Democratic,1973,1995,fail-lastname
+350,"Cannon, Howard W.",Howard W.,Cannon,,,Senate,Nevada,Democratic,1959,1983,fail-firstname
+351,"Robison, Howard W.",Howard W.,Robison,,,House,New York,Republican,1957,1975,fail-lastname
+352,"Heflin, Howell",Howell,Heflin,,,Senate,Alabama,Democratic,1979,1997,fail-lastname
+353,"Humphrey, Hubert H.",Hubert H.,Humphrey,,,Senate,Minnesota,Democratic,1949,1979,only-surname
+354,"Scott, Hugh",Hugh,Scott,,,"House,Senate",Pennsylvania,Republican,1941,1977,fail-firstname
+355,"Carey, Hugh L.",Hugh L.,Carey,,,House,New York,Democratic,1961,1975,fail-firstname
+356,"Andrews, Ike",Ike,Andrews,,,House,North Carolina,Democratic,1973,1985,fail-firstname
+357,"Johnston, J. Bennett",J. Bennett,Johnston,,,Senate,Louisiana,Democratic,1971,1997,fail-firstname
+358,"Hayworth, J. D.",J. D.,Hayworth,,,House,Arizona,Republican,1995,2007,fail-firstname
+359,"Vance, J. D.",J. D.,Vance,,,Senate,Ohio,Republican,2023,2025,fail-firstname
+360,"Roush, J. Edward",J. Edward,Roush,,,House,Indiana,Democratic,1959,1977,fail-lastname
+361,"Beall, J. Glenn, Jr.","J. Glenn, Jr.",Beall,,,"House,Senate",Maryland,Republican,1969,1977,only-surname
+362,"Burke, J. Herbert",J. Herbert,Burke,,,House,Florida,Republican,1967,1979,fail-firstname
+363,"Pickle, J. J.",J. J.,Pickle,,,House,Texas,Democratic,1963,1995,only-surname
+364,"Exon, J. James",J. James,Exon,,,Senate,Nebraska,Democratic,1979,1997,fail-lastname
+365,"Robinson, J. Kenneth",J. Kenneth,Robinson,,,House,Virginia,Republican,1971,1985,fail-firstname
+366,"Correa, J. Luis",J. Luis,Correa,,,House,California,Democratic,2017,9999,only-surname
+367,"Stanton, J. William",J. William,Stanton,,,House,Ohio,Republican,1965,1983,fail-firstname
+368,"Brinkley, Jack",Jack,Brinkley,,,House,Georgia,Democratic,1967,1983,fail-lastname
+369,"Buechner, Jack",Jack,Buechner,,,House,Missouri,Republican,1987,1991,fail-lastname
+370,"Davis, Jack",Jack,Davis,,,House,Illinois,Republican,1987,1989,ambiguous
+371,"Edwards, Jack",Jack,Edwards,,,House,Alabama,Republican,1965,1985,ambiguous
+372,"Kemp, Jack",Jack,Kemp,,,House,New York,Republican,1971,1989,fail-firstname
+373,"Hightower, Jack E.",Jack E.,Hightower,,,House,Texas,Democratic,1975,1985,fail-lastname
+374,"Javits, Jacob K.",Jacob K.,Javits,,,"House,Senate",New York,Republican,1947,1981,fail-lastname
+375,"LaTurner, Jake",Jake,LaTurner,,,House,Kansas,Republican,2021,2025,only-surname
+376,"Abdnor, James",James,Abdnor,,,"House,Senate",South Dakota,Republican,1973,1987,fail-lastname
+377,"Abourezk, James",James,Abourezk,,,"House,Senate",South Dakota,Democratic,1971,1979,fail-lastname
+378,"Blanchard, James",James,Blanchard,,,House,Michigan,Democratic,1975,1983,fail-firstname
+379,"Fulbright, James",James,Fulbright,,,"House,Senate",Arkansas,Democratic,1943,1975,fail-lastname
+380,"Burke, James A.",James A.,Burke,,,House,Massachusetts,Democratic,1959,1979,fail-firstname
+381,"Haley, James A.",James A.,Haley,,,House,Florida,Democratic,1953,1977,only-surname
+382,"Hayes, James A.",James A.,Hayes,,,House,Louisiana,Republican,1987,1997,ambiguous
+383,"Mattox, James A.",James A.,Mattox,,,House,Texas,Democratic,1977,1983,fail-lastname
+384,"McClure, James A.",James A.,McClure,,,"House,Senate",Idaho,Republican,1967,1991,only-surname
+385,"Allen, James B.",James B.,Allen,,,Senate,Alabama,Democratic,1969,1979,fail-firstname
+386,"Pearson, James B.",James B.,Pearson,,,Senate,Kansas,Republican,1961,1979,fail-firstname
+387,"Cleveland, James C.",James C.,Cleveland,,,House,New Hampshire,Republican,1963,1981,fail-firstname
+388,"Corman, James C.",James C.,Corman,,,House,California,Democratic,1961,1981,fail-lastname
+389,"Wright, James C., Jr.","James C., Jr.",Wright,,,House,Texas,Democratic,1955,1991,ambiguous
+390,"Santini, James D.",James D.,Santini,,,House,Nevada,Democratic,1975,1983,fail-lastname
+391,"Hastings, James F.",James F.,Hastings,,,House,New York,Republican,1969,1977,fail-firstname
+392,"Lloyd, James F.",James F.,Lloyd,,,House,California,Democratic,1975,1981,fail-firstname
+393,"McNulty, James F., Jr.","James F., Jr.",McNulty,,,House,Arizona,Democratic,1983,1985,fail-firstname
+394,"O'Hara, James G.",James G.,O'Hara,,,House,Michigan,Democratic,1959,1977,fail-firstname
+395,"Scheuer, James H.",James H.,Scheuer,,,House,New York,Democratic,1965,1993,fail-lastname
+396,"Weaver, James H.",James H.,Weaver,,,House,Oregon,Democratic,1975,1987,fail-firstname
+397,"Delaney, James J.",James J.,Delaney,,,House,New York,Democratic,1945,1979,fail-firstname
+398,"Florio, James J.",James J.,Florio,,,House,New Jersey,Democratic,1975,1991,fail-lastname
+399,"Coyne, James K.",James K.,Coyne,,,House,Pennsylvania,Republican,1981,1983,fail-firstname
+400,"Buckley, James L.",James L.,Buckley,,,Senate,New York,Republican,1971,1977,fail-firstname
+401,"Nelligan, James L.",James L.,Nelligan,,,House,Pennsylvania,Republican,1981,1983,fail-lastname
+402,"Collins, James M.",James M.,Collins,,,House,Texas,Republican,1967,1983,fail-firstname
+403,"Hanley, James M.",James M.,Hanley,,,House,New York,Democratic,1965,1981,fail-lastname
+404,"Shannon, James M.",James M.,Shannon,,,House,Massachusetts,Democratic,1979,1985,fail-firstname
+405,"Clarke, James McC.",James McC.,Clarke,,,House,North Carolina,Democratic,1983,1991,fail-firstname
+406,"Eastland, James O.",James O.,Eastland,,,Senate,Mississippi,Democratic,1941,1979,fail-lastname
+407,"Mann, James R.",James R.,Mann,,,House,South Carolina,Democratic,1969,1979,fail-firstname
+408,"Olin, James R.",James R.,Olin,,,House,Virginia,Democratic,1983,1993,fail-lastname
+409,"Grover, James R., Jr.","James R., Jr.",Grover,,,House,New York,Republican,1963,1975,only-surname
+410,"Broyhill, James T.",James T.,Broyhill,,,"House,Senate",North Carolina,Republican,1963,1987,fail-lastname
+411,"Hansen, James V.",James V.,Hansen,,,House,Utah,Republican,1981,2003,ambiguous
+412,"Stanton, James V.",James V.,Stanton,,,House,Ohio,Independent,1971,1977,fail-firstname
+413,"Symington, James W.",James W.,Symington,,,House,Missouri,Democratic,1969,1977,fail-lastname
+414,"Benitez, Jamie",Jamie,Benitez,,,House,Puerto Rico,Democratic,1973,1977,only-surname
+415,"Fuster, Jamie B.",Jamie B.,Fuster,,,House,Puerto Rico,Democratic,1985,1993,fail-lastname
+416,"Schakowsky, Janice D.",Janice D.,Schakowsky,,,House,Illinois,Democratic,1999,9999,only-surname
+417,"Ashbrook, Jean",Jean,Ashbrook,,,House,Ohio,Republican,1981,1983,fail-lastname
+418,"Bradley, Jeb",Jeb,Bradley,,,House,New Hampshire,Republican,2003,2007,ambiguous
+419,"Chiesa, Jeff",Jeff,Chiesa,,,Senate,New Jersey,Republican,2013,2013,fail-lastname
+420,"Miller, Jeff",Jeff,Miller,,,House,Florida,Republican,2001,2017,ambiguous
+421,"González-Colón, Jenniffer",Jenniffer,González-Colón,,,House,Puerto Rico,Republican,2017,2025,fail-firstname
+422,"Randolph, Jennings",Jennings,Randolph,,,"House,Senate",West Virginia,Democratic,1933,1985,only-surname
+423,"Denton, Jeremiah",Jeremiah,Denton,,,Senate,Alabama,Republican,1981,1987,fail-firstname
+424,"Ambro, Jerome A.",Jerome A.,Ambro,,,House,New York,Democratic,1975,1981,fail-lastname
+425,"Waldie, Jerome R.",Jerome R.,Waldie,,,House,California,Democratic,1965,1975,fail-lastname
+426,"Nadler, Jerrold",Jerrold,Nadler,,,House,New York,Democratic,1991,9999,only-surname
+427,"Litton, Jerry",Jerry,Litton,,,House,Missouri,Democratic,1973,1977,only-surname
+428,"Weller, Jerry",Jerry,Weller,,,House,Illinois,Republican,1995,2009,only-surname
+429,"Pettis, Jerry L.",Jerry L.,Pettis,,,House,California,Republican,1967,1977,fail-lastname
+430,"Patterson, Jerry M.",Jerry M.,Patterson,,,House,California,Democratic,1975,1985,fail-firstname
+431,"Bates, Jim",Jim,Bates,,,House,California,Democratic,1983,1991,fail-firstname
+432,"Courter, Jim",Jim,Courter,,,House,New Jersey,Republican,1979,1991,fail-lastname
+433,"Davis, Jim",Jim,Davis,,,House,Florida,Democratic,1997,2007,ambiguous
+434,"McDermott, Jim",Jim,McDermott,,,House,Washington,Democratic,1989,2017,ambiguous
+435,"Moody, Jim",Jim,Moody,,,House,Wisconsin,Democratic,1983,1993,fail-firstname
+436,"Burdick, Jocelyn",Jocelyn,Burdick,,,Senate,North Dakota,Democratic,1991,1993,fail-lastname
+437,"Garcia, Joe",Joe,Garcia,,,House,Florida,Democratic,2013,2015,ambiguous
+438,"Skubitz, Joe",Joe,Skubitz,,,House,Kansas,Republican,1963,1979,fail-lastname
+439,"Walsh, Joe",Joe,Walsh,,,House,Illinois,Republican,2011,2013,ambiguous
+440,"Waggonner, Joe D., Jr.","Joe D., Jr.",Waggonner,,,House,Louisiana,Democratic,1961,1979,fail-lastname
+441,"Evins, Joe L.",Joe L.,Evins,,,House,Tennessee,Democratic,1947,1977,fail-lastname
+442,"Wyatt, Joe, Jr.","Joe, Jr.",Wyatt,,,House,Texas,Democratic,1979,1981,fail-firstname
+443,"Pritchard, Joel",Joel,Pritchard,,,House,Washington,Republican,1973,1985,fail-lastname
+444,"Broyhill, Joel T.",Joel T.,Broyhill,,,House,Virginia,Republican,1953,1975,fail-lastname
+445,"Fisher, Joesph L.",Joesph L.,Fisher,,,House,Virginia,Democratic,1975,1981,fail-firstname
+446,"Brademas, John",John,Brademas,,,House,Indiana,Democratic,1959,1981,fail-lastname
+447,"Buchanan, John",John,Buchanan,,,House,Alabama,Republican,1965,1981,fail-firstname
+448,"Burton, John",John,Burton,,,House,California,Democratic,1973,1983,fail-firstname
+449,"Dellenback, John",John,Dellenback,,,House,Oregon,Republican,1967,1975,fail-lastname
+450,"Edwards, John",John,Edwards,,,Senate,North Carolina,Democratic,1999,2005,ambiguous
+451,"Heinz, John",John,Heinz,,,"House,Senate",Pennsylvania,Republican,1971,1993,only-surname
+452,"Jarman, John",John,Jarman,,,House,Oklahoma,Democratic,1951,1977,fail-lastname
+453,"LeBoutillier, John",John,LeBoutillier,,,House,New York,Republican,1981,1983,fail-lastname
+454,"Lewis, John",John,Lewis,,,House,Georgia,Democratic,1987,2020,ambiguous
+455,"Melcher, John",John,Melcher,,,"House,Senate",Montana,Democratic,1969,1989,only-surname
+456,"Slack, John",John,Slack,,,House,West Virginia,Democratic,1959,1981,fail-lastname
+457,"Warner, John",John,Warner,,,Senate,Virginia,Republican,1979,2009,ambiguous
+458,"Young, John",John,Young,,,House,Texas,Democratic,1957,1979,fail-firstname
+459,"Durkin, John A.",John A.,Durkin,,,Senate,New Hampshire,Democratic,1975,1981,only-surname
+460,"Blatnik, John Anton",John Anton,Blatnik,,,House,Minnesota,Democratic,1947,1975,fail-lastname
+461,"Anderson, John B.",John B.,Anderson,,,House,Illinois,Republican,1961,1981,ambiguous
+462,"Breckinridge, John B.",John B.,Breckinridge,,,House,Kentucky,Democratic,1973,1979,fail-lastname
+463,"Conlan, John B.",John B.,Conlan,,,House,Arizona,Republican,1973,1977,fail-lastname
+464,"Larson, John B.",John B.,Larson,,,House,Connecticut,Democratic,1999,9999,ambiguous
+465,"Culver, John C.",John C.,Culver,,,"House,Senate",Iowa,Democratic,1965,1981,only-surname
+466,"Danforth, John C.",John C.,Danforth,,,Senate,Missouri,Republican,1977,1995,fail-lastname
+467,"Kluczynski, John C.",John C.,Kluczynski,,,House,Illinois,Democratic,1951,1977,fail-lastname
+468,"Stennis, John C.",John C.,Stennis,,,Senate,Mississippi,Democratic,1947,1989,fail-lastname
+469,"Rockefeller, John D., IV","John D., IV",Rockefeller,,,Senate,West Virginia,Democratic,1985,2015,only-surname
+470,"Grotberg, John E.",John E.,Grotberg,,,House,Illinois,Republican,1985,1987,only-surname
+471,"Hunt, John E.",John E.,Hunt,,,House,New Jersey,Republican,1967,1975,fail-firstname
+472,"Moss, John E.",John E.,Moss,,,House,California,Democratic,1953,1979,fail-firstname
+473,"Peterson, John E.",John E.,Peterson,,,House,Pennsylvania,Republican,1997,2009,ambiguous
+474,"Sweeney, John E.",John E.,Sweeney,,,House,New York,Republican,1999,2007,ambiguous
+475,"Walsh, John E.",John E.,Walsh,,,Senate,Montana,Democratic,2014,2015,ambiguous
+476,"Cunningham, John E. (Jack)",John E. (Jack),Cunningham,,,House,Washington,Republican,1977,1979,ambiguous
+477,"Seiberling, John F.",John F.,Seiberling,,,House,Ohio,Democratic,1971,1987,fail-lastname
+478,"Fary, John G.",John G.,Fary,,,House,Illinois,Democratic,1975,1983,fail-lastname
+479,"Hutchinson, John G.",John G.,Hutchinson,,,House,West Virginia,Democratic,1979,1981,fail-firstname
+480,"Rowland, John G.",John G.,Rowland,,,House,Connecticut,Republican,1985,1991,fail-firstname
+481,"Tower, John G.",John G.,Tower,,,Senate,Texas,Republican,1961,1985,only-surname
+482,"Dent, John H.",John H.,Dent,,,House,Pennsylvania,Democratic,1957,1979,only-surname
+483,"Krebs, John H.",John H.,Krebs,,,House,California,Democratic,1975,1979,fail-lastname
+484,"Rousselot, John H.",John H.,Rousselot,,,House,California,Republican,1961,1983,fail-lastname
+485,"Ware, John H.",John H.,Ware,,,House,Pennsylvania,Republican,1969,1975,fail-lastname
+486,"Cavanaugh, John J.",John J.,Cavanaugh,,,House,Nebraska,Democratic,1977,1981,fail-firstname
+487,"Duncan, John J.",John J.,Duncan,,,House,Tennessee,Republican,1965,1989,ambiguous
+488,"McFall, John J.",John J.,McFall,,,House,California,Democratic,1957,1979,only-surname
+489,"McGuire, John J.",John J.,McGuire,,,House,Virginia,Republican,2025,9999,ambiguous
+490,"Sparkman, John J.",John J.,Sparkman,,,"House,Senate",Alabama,Democratic,1937,1979,fail-lastname
+491,"Flynt, John J., Jr.","John J., Jr.",Flynt,,,House,Georgia,Democratic,1953,1979,fail-lastname
+492,"Delaney, John K.",John K.,Delaney,,,House,Maryland,Democratic,2013,2019,ambiguous
+493,"McClellan, John L.",John L.,McClellan,,,"House,Senate",Arkansas,Democratic,1935,1979,fail-firstname
+494,"Napier, John L.",John L.,Napier,,,House,South Carolina,Republican,1981,1983,only-surname
+495,"Ashbrook, John M.",John M.,Ashbrook,,,House,Ohio,Republican,1961,1983,fail-lastname
+496,"McHugh, John M.",John M.,McHugh,,,House,New York,Republican,1993,2009,ambiguous
+497,"Zwach, John M.",John M.,Zwach,,,House,Minnesota,Republican,1967,1975,fail-lastname
+498,"Erlenborn, John N.",John N.,Erlenborn,,,House,Illinois,Republican,1965,1985,fail-lastname
+499,"Camp, John N. Happy",John N. Happy,Camp,,,House,Oklahoma,Republican,1969,1975,fail-firstname
+500,"Pastore, John O.",John O.,Pastore,,,Senate,Rhode Island,Democratic,1949,1977,only-surname
+501,"East, John P.",John P.,East,,,Senate,North Carolina,Republican,1981,1987,only-surname
+502,"Hammerschmidt, John P.",John P.,Hammerschmidt,,,House,Arkansas,Republican,1967,1993,fail-lastname
+503,"Saylor, John P.",John P.,Saylor,,,House,Pennsylvania,Republican,1949,1975,only-surname
+504,"Hiler, John Patrick",John Patrick,Hiler,,,House,Indiana,Republican,1981,1991,fail-lastname
+505,"Carter, John R.",John R.,Carter,,,House,Texas,Republican,2003,9999,ambiguous
+506,"Curtis, John R.",John R.,Curtis,,,"House,Senate",Utah,Republican,2017,9999,ambiguous
+507,"Rarick, John R.",John R.,Rarick,,,House,Louisiana,Democratic,1967,1975,fail-lastname
+508,"McKernan, John R., Jr.","John R., Jr.",McKernan,,,House,Maine,Republican,1983,1987,fail-lastname
+509,"Tunney, John V.",John V.,Tunney,,,"House,Senate",California,Democratic,1965,1977,only-surname
+510,"Davis, John W.",John W.,Davis,,,House,Georgia,Democratic,1961,1975,ambiguous
+511,"Wydler, John W.",John W.,Wydler,,,House,New York,Republican,1963,1981,fail-lastname
+512,"Jenrette, John W., Jr.","John W., Jr.",Jenrette,,,House,South Carolina,Democratic,1975,1981,fail-lastname
+513,"McCollister, John Y.",John Y.,McCollister,,,House,Nebraska,Republican,1971,1977,fail-lastname
+514,"Husted, Jon",Jon,Husted,,,Senate,Ohio,Republican,2025,9999,fail-lastname
+515,"Hinson, Jon C.",Jon C.,Hinson,,,House,Mississippi,Republican,1979,1983,fail-firstname
+516,"Porter, Jon C.",Jon C.,Porter,,,House,Nevada,Republican,2003,2009,ambiguous
+517,"Bingham, Jonathan B.",Jonathan B.,Bingham,,,House,New York,Democratic,1965,1983,fail-firstname
+518,"Jackson, Jonathan L.",Jonathan L.,Jackson,,,House,Illinois,Democratic,2023,9999,ambiguous
+519,"LeFante, Joseph A.",Joseph A.,LeFante,,,House,New Jersey,Democratic,1977,1979,fail-lastname
+520,"Karth, Joseph E.",Joseph E.,Karth,,,House,Minnesota,Democratic,1959,1977,fail-lastname
+521,"Minish, Joseph G.",Joseph G.,Minish,,,House,New Jersey,Democratic,1963,1985,fail-lastname
+522,"Lieberman, Joseph I.",Joseph I.,Lieberman,,,Senate,Connecticut,Independent Democrat,1989,2013,ambiguous
+523,"Maraziti, Joseph J.",Joseph J.,Maraziti,,,House,New Jersey,Republican,1973,1975,fail-lastname
+524,"Gaydos, Joseph M.",Joseph M.,Gaydos,,,House,Pennsylvania,Democratic,1967,1993,fail-lastname
+525,"Addabbo, Joseph P.",Joseph P.,Addabbo,,,House,New York,Democratic,1961,1987,fail-lastname
+526,"Kolter, Joseph P.",Joseph P.,Kolter,,,House,Pennsylvania,Democratic,1983,1993,fail-lastname
+527,"Vigorito, Joseph P.",Joseph P.,Vigorito,,,House,Pennsylvania,Democratic,1965,1977,fail-lastname
+528,"Ammerman, Joseph S.",Joseph S.,Ammerman,,,House,Pennsylvania,Democratic,1977,1979,fail-lastname
+529,"Eilberg, Joshua",Joshua,Eilberg,,,House,Pennsylvania,Democratic,1967,1979,fail-lastname
+530,"Hansen, Julia Butler",Julia Butler,Hansen,,,House,Washington,Democratic,1959,1975,fail-firstname
+531,"McKay, K. Gunn",K. Gunn,McKay,,,House,Utah,Democratic,1971,1981,only-surname
+532,"Conaway, K. Michael",K. Michael,Conaway,,,House,Texas,Republican,2005,2021,fail-firstname
+533,"Kahele, Kaiali'i",Kaiali'i,Kahele,,,House,Hawaii,Democratic,2021,2023,only-surname
+534,"Hodges, Kaneaster, Jr.","Kaneaster, Jr.",Hodges,,,Senate,Arkansas,Democratic,1977,1979,fail-firstname
+535,"Dahlkemper, Kathleen A.",Kathleen A.,Dahlkemper,,,House,Pennsylvania,Democratic,2009,2011,only-surname
+536,"Hochul, Kathleen C.",Kathleen C.,Hochul,,,House,New York,Democratic,2011,2013,only-surname
+537,"Hall, Katie",Katie,Hall,,,House,Indiana,Democratic,1981,1985,fail-firstname
+538,"Sebelius, Keith G.",Keith G.,Sebelius,,,House,Kansas,Republican,1969,1981,fail-lastname
+539,"Bentsen, Ken",Ken,Bentsen,,,House,Texas,Democratic,1995,2003,only-surname
+540,"Kramer, Ken",Ken,Kramer,,,House,Colorado,Republican,1979,1987,fail-firstname
+541,"Gray, Kenneth J.",Kenneth J.,Gray,,,House,Illinois,Democratic,1955,1989,fail-firstname
+542,"Holland, Kenneth L.",Kenneth L.,Holland,,,House,South Carolina,Democratic,1975,1983,fail-firstname
+543,"Hance, Kent R.",Kent R.,Hance,,,House,Texas,Democratic,1979,1985,fail-lastname
+544,"King-Hinds, Kimberlyn",Kimberlyn,King-Hinds,,,House,Northern Mariana Islands,Republican,2025,9999,fail-firstname
+545,"Bafalis, L. A. (Skip)",L. A. (Skip),Bafalis,,,House,Florida,Republican,1973,1983,fail-lastname
+546,"Fountain, L. H.",L. H.,Fountain,,,House,North Carolina,Democratic,1953,1983,fail-lastname
+547,"Baker, LaMar",LaMar,Baker,,,House,Tennessee,Republican,1971,1975,fail-firstname
+548,"Butler, Laphonza R.",Laphonza R.,Butler,,,Senate,California,Democratic,2023,2024,fail-firstname
+549,"Smith, Larkin",Larkin,Smith,,,House,Mississippi,Republican,1989,1991,fail-firstname
+550,"Hopkins, Larry J.",Larry J.,Hopkins,,,House,Kentucky,Republican,1979,1993,fail-firstname
+551,"Winn, Larry, Jr.","Larry, Jr.",Winn,,,House,Kansas,Republican,1967,1985,fail-firstname
+552,"Faircloth, Lauch",Lauch,Faircloth,,,Senate,North Carolina,Republican,1993,1999,fail-firstname
+553,"Coughlin, Lawrence",Lawrence,Coughlin,,,House,Pennsylvania,Republican,1969,1993,only-surname
+554,"DeNardis, Lawrence J.",Lawrence J.,DeNardis,,,House,Connecticut,Republican,1981,1983,fail-firstname
+555,"Hogan, Lawrence J.",Lawrence J.,Hogan,,,House,Maryland,Republican,1969,1975,ambiguous
+556,"McDonald, Lawrence P.",Lawrence P.,McDonald,,,House,Georgia,Democratic,1975,1985,fail-firstname
+557,"Chiles, Lawton",Lawton,Chiles,,,Senate,Florida,Democratic,1971,1989,fail-lastname
+558,"Metcalf, Lee",Lee,Metcalf,,,"House,Senate",Montana,Democratic,1953,1979,fail-firstname
+559,"Zeferetti, Leo C.",Leo C.,Zeferetti,,,House,New York,Democratic,1975,1983,fail-lastname
+560,"Ryan, Leo J.",Leo J.,Ryan,,,House,California,Democratic,1973,1979,fail-firstname
+561,"Arends, Leslie C.",Leslie C.,Arends,,,House,Illinois,Republican,1935,1975,fail-lastname
+562,"Wolff, Lester L.",Lester L.,Wolff,,,House,New York,Democratic,1965,1981,fail-firstname
+563,"Thomas, Lindsay",Lindsay,Thomas,,,House,Georgia,Democratic,1983,1993,fail-firstname
+564,"Van Deerlin, Lionel",Lionel,Van Deerlin,,,House,California,Democratic,1963,1981,fail-lastname
+565,"Meeds, Lloyd",Lloyd,Meeds,,,House,Washington,Democratic,1965,1979,fail-lastname
+566,"Bentsen, Lloyd M.",Lloyd M.,Bentsen,,,"House,Senate",Texas,Democratic,1947,1993,only-surname
+567,"Frey, Lou, Jr.","Lou, Jr.",Frey,,,House,Florida,Republican,1969,1979,fail-firstname
+568,"Wyman, Louis C.",Louis C.,Wyman,,,"House,Senate",New Hampshire,Republican,1963,1975,only-surname
+569,"Weicker, Lowell P., Jr.","Lowell P., Jr.",Weicker,,,"House,Senate",Connecticut,Republican,1969,1989,fail-lastname
+570,"Nedzi, Lucien N.",Lucien N.,Nedzi,,,House,Michigan,Democratic,1961,1981,fail-lastname
+571,"Fortuno, Luis G.",Luis G.,Fortuno,,,House,Puerto Rico,Republican,2005,2009,fail-lastname
+572,"Strange, Luther",Luther,Strange,,,Senate,Alabama,Republican,2017,2018,fail-lastname
+573,"Williams, Lyle",Lyle,Williams,,,House,Ohio,Republican,1979,1985,fail-firstname
+574,"Martin, Lynn M.",Lynn M.,Martin,,,House,Illinois,Republican,1981,1991,fail-firstname
+575,"Butler, M. Caldwell",M. Caldwell,Butler,,,House,Virginia,Republican,1971,1983,fail-firstname
+576,"Snyder, M. G. (Gene)",M. G. (Gene),Snyder,,,House,Kentucky,Republican,1963,1987,fail-firstname
+577,"Collins, Mac",Mac,Collins,,,House,Georgia,Republican,1993,2005,ambiguous
+578,"Wallop, Malcolm",Malcolm,Wallop,,,Senate,Wyoming,Republican,1977,1995,fail-lastname
+579,"Lujan, Manuel, Jr.","Manuel, Jr.",Lujan,,,House,New Mexico,Republican,1969,1989,fail-firstname
+580,"Marks, Marc L.",Marc L.,Marks,,,House,Pennsylvania,Republican,1977,1983,fail-lastname
+581,"Heckler, Margaret M.",Margaret M.,Heckler,,,House,Massachusetts,Republican,1967,1983,fail-lastname
+582,"Biaggi, Mario",Mario,Biaggi,,,House,New York,Democratic,1969,1989,fail-lastname
+583,"Holt, Marjorie S.",Marjorie S.,Holt,,,House,Maryland,Republican,1973,1987,fail-firstname
+584,"Andrews, Mark",Mark,Andrews,,,"House,Senate",North Dakota,Republican,1963,1987,fail-firstname
+585,"Green, Mark",Mark,Green,,,House,Wisconsin,Republican,1999,2007,ambiguous
+586,"Harris, Mark",Mark,Harris,,,House,North Carolina,Republican,2025,9999,ambiguous
+587,"Siljander, Mark D.",Mark D.,Siljander,,,House,Michigan,Republican,1981,1987,fail-lastname
+588,"Green, Mark E.",Mark E.,Green,,,House,Tennessee,Republican,2019,2025,ambiguous
+589,"Hatfield, Mark O.",Mark O.,Hatfield,,,Senate,Oregon,Republican,1967,1997,fail-lastname
+590,"Kirk, Mark Steven",Mark Steven,Kirk,,,"House,Senate",Illinois,Republican,2001,2017,ambiguous
+591,"Hannaford, Mark W.",Mark W.,Hannaford,,,House,California,Democratic,1975,1979,fail-lastname
+592,"Cook, Marlow W.",Marlow W.,Cook,,,Senate,Kentucky,Republican,1967,1975,fail-firstname
+593,"Keys, Martha E.",Martha E.,Keys,,,House,Kansas,Democratic,1975,1979,fail-lastname
+594,"Griffiths, Martha W.",Martha W.,Griffiths,,,House,Michigan,Democratic,1955,1975,fail-lastname
+595,"Frost, Martin",Martin,Frost,,,House,Texas,Democratic,1979,2005,fail-firstname
+596,"Russo, Martin A.",Martin A.,Russo,,,House,Illinois,Democratic,1975,1993,fail-firstname
+597,"Leath, Marvin",Marvin,Leath,,,House,Texas,Democratic,1979,1991,fail-lastname
+598,"Esch, Marvin L.",Marvin L.,Esch,,,House,Michigan,Republican,1967,1977,only-surname
+599,"Allen, Maryon",Maryon,Allen,,,Senate,Alabama,Democratic,1977,1979,fail-firstname
+600,"McHugh, Matthew F.",Matthew F.,McHugh,,,House,New York,Democratic,1975,1993,fail-firstname
+601,"Rinaldo, Matthew J.",Matthew J.,Rinaldo,,,House,New Jersey,Republican,1973,1993,fail-lastname
+602,"Rosendale, Matthew M.",Matthew M.,Rosendale,,,House,Montana,Republican,2021,2025,only-surname
+603,"Cleland, Max",Max,Cleland,,,Senate,Georgia,Democratic,1997,2003,only-surname
+604,"Levine, Mel",Mel,Levine,,,House,California,Democratic,1983,1993,fail-firstname
+605,"Evans, Melvin H.",Melvin H.,Evans,,,House,Virgin Islands,Republican,1979,1981,fail-firstname
+606,"Davis, Mendel J.",Mendel J.,Davis,,,House,South Carolina,Democratic,1971,1981,fail-firstname
+607,"Dymally, Mervyn M.",Mervyn M.,Dymally,,,House,California,Democratic,1981,1993,fail-lastname
+608,"Blouin, Michael",Michael,Blouin,,,House,Iowa,Democratic,1975,1979,fail-lastname
+609,"Cloud, Michael",Michael,Cloud,,,House,Texas,Republican,2018,9999,ambiguous
+610,"Lawler, Michael",Michael,Lawler,,,House,New York,Republican,2023,9999,fail-firstname
+611,"Waltz, Michael",Michael,Waltz,,,House,Florida,Republican,2019,2025,fail-firstname
+612,"Enzi, Michael B.",Michael B.,Enzi,,,Senate,Wyoming,Republican,1997,2021,only-surname
+613,"Barnes, Michael D.",Michael D.,Barnes,,,House,Maryland,Democratic,1979,1987,fail-firstname
+614,"Capuano, Michael E.",Michael E.,Capuano,,,House,Massachusetts,Democratic,1999,2019,only-surname
+615,"Sodrel, Michael E.",Michael E.,Sodrel,,,House,Indiana,Republican,2005,2007,only-surname
+616,"Doyle, Michael F.",Michael F.,Doyle,,,House,Pennsylvania,Democratic,1995,2022,fail-firstname
+617,"San Nicolas, Michael F. Q.",Michael F. Q.,San Nicolas,,,House,Guam,Democratic,2019,2023,only-surname
+618,"Fitzpatrick, Michael G.",Michael G.,Fitzpatrick,,,House,Pennsylvania,Republican,2005,2017,fail-firstname
+619,"Oxley, Michael G.",Michael G.,Oxley,,,House,Ohio,Republican,1981,2007,ambiguous
+620,"Michaud, Michael H.",Michael H.,Michaud,,,House,Maine,Democratic,2003,2015,only-surname
+621,"Harrington, Michael J.",Michael J.,Harrington,,,House,Massachusetts,Democratic,1969,1979,fail-firstname
+622,"Simpson, Michael K.",Michael K.,Simpson,,,House,Idaho,Republican,1999,9999,ambiguous
+623,"Strang, Michael L.",Michael L.,Strang,,,House,Colorado,Republican,1985,1987,fail-lastname
+624,"Honda, Michael M.",Michael M.,Honda,,,House,California,Democratic,2001,2017,only-surname
+625,"Castle, Michael N.",Michael N.,Castle,,,House,Delaware,Republican,1993,2011,fail-firstname
+626,"Turner, Michael R.",Michael R.,Turner,,,House,Ohio,Republican,2003,9999,fail-firstname
+627,"Edwards, Mickey",Mickey,Edwards,,,House,Oklahoma,Republican,1977,1993,fail-firstname
+628,"Leland, Mickey",Mickey,Leland,,,House,Texas,Democratic,1979,1991,fail-lastname
+629,"Coffman, Mike",Mike,Coffman,,,House,Colorado,Republican,2009,2019,only-surname
+630,"Ferguson, Mike",Mike,Ferguson,,,House,New Jersey,Republican,2001,2009,fail-firstname
+631,"Gravel, Mike",Mike,Gravel,,,Senate,Alaska,Democratic,1969,1981,fail-lastname
+632,"Lowry, Mike",Mike,Lowry,,,House,Washington,Democratic,1979,1989,only-surname
+633,"Mansfield, Mike",Mike,Mansfield,,,"House,Senate",Montana,Democratic,1943,1977,fail-firstname
+634,"McCormack, Mike",Mike,McCormack,,,House,Washington,Democratic,1971,1981,fail-lastname
+635,"Ward, Mike",Mike,Ward,,,House,Kentucky,Democratic,1995,1997,fail-firstname
+636,"Rogers, Mike D.",Mike D.,Rogers,,,House,Alabama,Republican,2003,9999,ambiguous
+637,"Rogers, Mike J.",Mike J.,Rogers,,,House,Michigan,Republican,2001,2015,ambiguous
+638,"Fenwick, Millicent H.",Millicent H.,Fenwick,,,House,New Jersey,Republican,1975,1983,fail-lastname
+639,"Young, Milton R.",Milton R.,Young,,,Senate,North Dakota,Republican,1945,1981,fail-firstname
+640,"Murphy, Morgan F.",Morgan F.,Murphy,,,House,Illinois,Democratic,1971,1981,fail-firstname
+641,"Udall, Morris K.",Morris K.,Udall,,,House,Arizona,Democratic,1961,1993,fail-firstname
+642,"Humphrey, Muriel",Muriel,Humphrey,,,Senate,Minnesota,Democratic,1977,1979,only-surname
+643,"Kassebaum, Nancy Landon",Nancy Landon,Kassebaum,,,Senate,Kansas,Republican,1979,1997,fail-lastname
+644,"Pou, Nellie",Nellie,Pou,,,House,New Jersey,Democratic,2025,9999,only-surname
+645,"Steers, Newton I., Jr.","Newton I., Jr.",Steers,,,House,Maryland,Republican,1977,1979,only-surname
+646,"Brady, Nicholas",Nicholas,Brady,,,Senate,New Jersey,Republican,1981,1983,fail-firstname
+647,"Dicks, Norman D.",Norman D.,Dicks,,,House,Washington,Democratic,1977,2013,only-surname
+648,"Shumway, Norman D.",Norman D.,Shumway,,,House,California,Republican,1979,1991,fail-lastname
+649,"D'Amours, Norman E.",Norman E.,D'Amours,,,House,New Hampshire,Democratic,1975,1985,fail-firstname
+650,"Lent, Norman F.",Norman F.,Lent,,,House,New York,Republican,1971,1993,fail-lastname
+651,"Cotton, Norris",Norris,Cotton,,,"House,Senate",New Hampshire,Republican,1947,1977,only-surname
+652,"Fisher, O. C.",O. C.,Fisher,,,House,Texas,Democratic,1943,1975,fail-firstname
+653,"Reid, Ogden R.",Ogden R.,Reid,,,House,New York,Democratic,1963,1975,fail-firstname
+654,"Teague, Olin E.",Olin E.,Teague,,,House,Texas,Democratic,1945,1979,fail-firstname
+655,"Burleson, Omar",Omar,Burleson,,,House,Texas,Democratic,1947,1979,only-surname
+656,"Hansen, Orval",Orval,Hansen,,,House,Idaho,Republican,1969,1975,fail-firstname
+657,"Pike, Otis G.",Otis G.,Pike,,,House,New York,Democratic,1961,1979,fail-lastname
+658,"Passman, Otto E.",Otto E.,Passman,,,House,Louisiana,Democratic,1947,1977,fail-lastname
+659,"Mitchell, Parren J.",Parren J.,Mitchell,,,House,Maryland,Democratic,1971,1987,fail-firstname
+660,"Saiki, Patricia",Patricia,Saiki,,,House,Hawaii,Republican,1987,1991,fail-lastname
+661,"Schroeder, Patricia",Patricia,Schroeder,,,House,Colorado,Democratic,1973,1997,fail-firstname
+662,"Murphy, Patrick",Patrick,Murphy,,,House,Florida,Democratic,2013,2017,ambiguous
+663,"Murphy, Patrick J.",Patrick J.,Murphy,,,House,Pennsylvania,Democratic,2007,2011,ambiguous
+664,"Swindall, Patrick L.",Patrick L.,Swindall,,,House,Georgia,Republican,1985,1989,fail-lastname
+665,"Cook, Paul",Paul,Cook,,,House,California,Republican,2013,2020,ambiguous
+666,"Findley, Paul",Paul,Findley,,,House,Illinois,Republican,1961,1983,only-surname
+667,"Hatfield, Paul",Paul,Hatfield,,,Senate,Montana,Democratic,1977,1979,fail-lastname
+668,"Simon, Paul",Paul,Simon,,,"House,Senate",Illinois,Democratic,1975,1997,fail-firstname
+669,"Laxalt, Paul D.",Paul D.,Laxalt,,,Senate,Nevada,Republican,1973,1987,only-surname
+670,"Tsongas, Paul E.",Paul E.,Tsongas,,,"House,Senate",Massachusetts,Democratic,1975,1985,only-surname
+671,"Rogers, Paul G.",Paul G.,Rogers,,,House,Florida,Democratic,1955,1979,fail-firstname
+672,"Kirk, Paul Grattan, Jr.","Paul Grattan, Jr.",Kirk,,,Senate,Massachusetts,Democratic,2009,2010,fail-firstname
+673,"Fannin, Paul J.",Paul J.,Fannin,,,Senate,Arizona,Republican,1965,1977,fail-lastname
+674,"McCloskey, Paul N., Jr.","Paul N., Jr.",McCloskey,,,House,California,Republican,1967,1983,only-surname
+675,"Trible, Paul S., Jr.","Paul S., Jr.",Trible,,,"House,Senate",Virginia,Republican,1977,1989,fail-lastname
+676,"Hawkins, Paula",Paula,Hawkins,,,Senate,Florida,Republican,1981,1987,fail-firstname
+677,"Wilson, Pete",Pete,Wilson,,,Senate,California,Republican,1983,1993,fail-firstname
+678,"Smith, Peter",Peter,Smith,,,House,Vermont,Republican,1989,1991,fail-firstname
+679,"Peyser, Peter A.",Peter A.,Peyser,,,House,New York,Democratic,1971,1983,fail-lastname
+680,"Dominick, Peter H.",Peter H.,Dominick,,,"House,Senate",Colorado,Republican,1961,1975,only-surname
+681,"Frelinghuysen, Peter H. B.",Peter H. B.,Frelinghuysen,,,House,New Jersey,Republican,1953,1975,only-surname
+682,"Kyros, Peter N.",Peter N.,Kyros,,,House,Maine,Democratic,1967,1975,fail-lastname
+683,"Rodino, Peter W., Jr.","Peter W., Jr.",Rodino,,,House,New Jersey,Democratic,1949,1989,only-surname
+684,"Gramm, Phil",Phil,Gramm,,,"House,Senate",Texas,Republican,1979,2002,only-surname
+685,"Landrum, Phil M.",Phil M.,Landrum,,,House,Georgia,Democratic,1953,1977,fail-lastname
+686,"Hart, Philip A.",Philip A.,Hart,,,Senate,Michigan,Democratic,1959,1977,fail-firstname
+687,"Hayes, Philip H.",Philip H.,Hayes,,,House,Indiana,Democratic,1975,1977,fail-firstname
+688,"Burton, Phillip",Phillip,Burton,,,House,California,Democratic,1963,1985,fail-firstname
+689,"du Pont, Pierre S., IV","Pierre S., IV",du Pont,,,House,Delaware,Republican,1971,1977,fail-lastname
+690,"Burdick, Quentin N.",Quentin N.,Burdick,,,Senate,North Dakota,Democratic,1959,1993,fail-lastname
+691,"Metcalfe, Ralph H.",Ralph H.,Metcalfe,,,House,Illinois,Democratic,1971,1979,fail-firstname
+692,"Musto, Raphael",Raphael,Musto,,,House,Pennsylvania,Democratic,1979,1981,fail-lastname
+693,"Kogovsek, Ray",Ray,Kogovsek,,,House,Colorado,Democratic,1979,1985,fail-lastname
+694,"Roberts, Ray",Ray,Roberts,,,House,Texas,Democratic,1961,1981,fail-firstname
+695,"Madden, Ray J.",Ray J.,Madden,,,House,Indiana,Democratic,1943,1977,fail-firstname
+696,"Lederer, Raymond F.",Raymond F.,Lederer,,,House,Pennsylvania,Democratic,1977,1983,fail-lastname
+697,"McGrath, Raymond J.",Raymond J.,McGrath,,,House,New York,Republican,1981,1993,only-surname
+698,"Bolling, Richard",Richard,Bolling,,,House,Missouri,Democratic,1949,1983,only-surname
+699,"Fulton, Richard",Richard,Fulton,,,House,Tennessee,Democratic,1963,1977,only-surname
+700,"Stone, Richard (Dick)",Richard (Dick),Stone,,,Senate,Florida,Democratic,1975,1981,fail-firstname
+701,"Tonry, Richard A.",Richard A.,Tonry,,,House,Louisiana,Democratic,1977,1979,fail-lastname
+702,"Nugent, Richard B.",Richard B.,Nugent,,,House,Florida,Republican,2011,2017,fail-firstname
+703,"Neal, Richard E.",Richard E.,Neal,,,House,Massachusetts,Democratic,1989,9999,ambiguous
+704,"Vander Veen, Richard F.",Richard F.,Vander Veen,,,House,Michigan,Democratic,1973,1977,only-surname
+705,"Ichord, Richard H.",Richard H.,Ichord,,,House,Missouri,Democratic,1961,1981,fail-lastname
+706,"Ottinger, Richard L.",Richard L.,Ottinger,,,House,New York,Democratic,1965,1985,fail-lastname
+707,"Schweiker, Richard S.",Richard S.,Schweiker,,,"House,Senate",Pennsylvania,Republican,1961,1981,fail-lastname
+708,"Schulze, Richard T.",Richard T.,Schulze,,,House,Pennsylvania,Republican,1975,1993,fail-lastname
+709,"Mallary, Richard W.",Richard W.,Mallary,,,House,Vermont,Republican,1971,1975,fail-lastname
+710,"Preyer, Richardson",Richardson,Preyer,,,House,North Carolina,Democratic,1969,1981,fail-lastname
+711,"McClory, Robert",Robert,McClory,,,House,Illinois,Republican,1963,1983,fail-lastname
+712,"Menendez, Robert",Robert,Menendez,,,"House,Senate",New Jersey,Democratic,1993,9999,ambiguous
+713,"Smith, Robert",Robert,Smith,,,House,Oregon,Republican,1983,1999,ambiguous
+714,"Gammage, Robert A.",Robert A.,Gammage,,,House,Texas,Democratic,1977,1979,fail-lastname
+715,"Roe, Robert A.",Robert A.,Roe,,,House,New Jersey,Democratic,1969,1993,fail-firstname
+716,"Young, Robert A.",Robert A.,Young,,,House,Missouri,Democratic,1977,1987,fail-firstname
+717,"Duncan, Robert B.",Robert B.,Duncan,,,House,Oregon,Democratic,1963,1981,fail-firstname
+718,"Mathias, Robert B. (Bob)",Robert B. (Bob),Mathias,,,House,California,Republican,1967,1975,only-surname
+719,"Krueger, Robert C.",Robert C.,Krueger,,,"House,Senate",Texas,Democratic,1975,1995,only-surname
+720,"Wilson, Robert C.",Robert C.,Wilson,,,House,California,Republican,1953,1981,ambiguous
+721,"Scott, Robert C. ""Bobby""","Robert C. ""Bobby""",Scott,,,House,Virginia,Democratic,1993,9999,ambiguous
+722,"Price, Robert D.",Robert D.,Price,,,House,Texas,Republican,1967,1975,fail-firstname
+723,"Badham, Robert E.",Robert E.,Badham,,,House,California,Republican,1977,1989,fail-lastname
+724,"Bauman, Robert E.",Robert E.,Bauman,,,House,Maryland,Republican,1973,1981,fail-firstname
+725,"Jones, Robert E., Jr.","Robert E., Jr.",Jones,,,House,Alabama,Democratic,1947,1977,fail-firstname
+726,"Drinan, Robert F.",Robert F.,Drinan,,,House,Massachusetts,Democratic,1971,1981,fail-lastname
+727,"Stephens, Robert G., Jr.","Robert G., Jr.",Stephens,,,House,Georgia,Democratic,1961,1977,fail-firstname
+728,"Mollohan, Robert H.",Robert H.,Mollohan,,,House,West Virginia,Democratic,1953,1983,only-surname
+729,"Cornell, Robert J.",Robert J.,Cornell,,,House,Wisconsin,Democratic,1975,1979,fail-lastname
+730,"Huber, Robert J.",Robert J.,Huber,,,House,Michigan,Republican,1973,1975,fail-lastname
+731,"Lagomarsino, Robert J.",Robert J.,Lagomarsino,,,House,California,Republican,1973,1993,fail-lastname
+732,"Mrazek, Robert J.",Robert J.,Mrazek,,,House,New York,Democratic,1983,1993,fail-lastname
+733,"Leggett, Robert L.",Robert L.,Leggett,,,House,California,Democratic,1963,1979,fail-lastname
+734,"Sikes, Robert L. F.",Robert L. F.,Sikes,,,House,Florida,Democratic,1941,1979,fail-lastname
+735,"Tallon, Robert M. (Robin)",Robert M. (Robin),Tallon,,,House,South Carolina,Democratic,1983,1993,only-surname
+736,"Giaimo, Robert N.",Robert N.,Giaimo,,,House,Connecticut,Democratic,1959,1981,fail-lastname
+737,"Nix, Robert N. C.",Robert N. C.,Nix,,,House,Pennsylvania,Democratic,1957,1979,fail-lastname
+738,"Tiernan, Robert O.",Robert O.,Tiernan,,,House,Rhode Island,Democratic,1967,1975,fail-lastname
+739,"Griffin, Robert P.",Robert P.,Griffin,,,"House,Senate",Michigan,Republican,1957,1979,fail-firstname
+740,"Hanrahan, Robert P.",Robert P.,Hanrahan,,,House,Illinois,Republican,1973,1975,fail-lastname
+741,"Stafford, Robert T.",Robert T.,Stafford,,,"House,Senate",Vermont,Republican,1961,1989,fail-firstname
+742,"Edgar, Robert W.",Robert W.,Edgar,,,House,Pennsylvania,Democratic,1975,1987,only-surname
+743,"Kastenmeier, Robert W.",Robert W.,Kastenmeier,,,House,Wisconsin,Democratic,1959,1991,fail-lastname
+744,"Daniel, Robert W., Jr.","Robert W., Jr.",Daniel,,,House,Virginia,Republican,1973,1983,fail-firstname
+745,"Taft, Robert, Jr.","Robert, Jr.",Taft,,,"House,Senate",Ohio,Republican,1963,1977,fail-lastname
+746,"Beard, Robin",Robin,Beard,,,House,Tennessee,Republican,1973,1983,fail-firstname
+747,"Britt, Robin",Robin,Britt,,,House,North Carolina,Democratic,1983,1985,fail-firstname
+748,"Grams, Rod",Rod,Grams,,,"House,Senate",Minnesota,Republican,1993,2001,only-surname
+749,"Zion, Roger H.",Roger H.,Zion,,,House,Indiana,Republican,1967,1975,only-surname
+750,"Jepsen, Roger W.",Roger W.,Jepsen,,,Senate,Iowa,Republican,1979,1985,fail-lastname
+751,"Burris, Roland",Roland,Burris,,,Senate,Illinois,Democratic,2009,2010,only-surname
+752,"Hruska, Roman L.",Roman L.,Hruska,,,Senate,Nebraska,Republican,1953,1977,fail-lastname
+753,"Sarasin, Ronald A.",Ronald A.,Sarasin,,,House,Connecticut,Republican,1973,1979,fail-lastname
+754,"Mottl, Ronald M.",Ronald M.,Mottl,,,House,Ohio,Democratic,1975,1983,fail-lastname
+755,"Flippo, Ronnie G.",Ronnie G.,Flippo,,,House,Alabama,Democratic,1977,1991,fail-lastname
+756,"Dyson, Roy",Roy,Dyson,,,House,Maryland,Democratic,1981,1991,only-surname
+757,"Taylor, Roy A.",Roy A.,Taylor,,,House,North Carolina,Democratic,1959,1977,fail-firstname
+758,"Long, Russell B.",Russell B.,Long,,,Senate,Louisiana,Democratic,1947,1987,fail-firstname
+759,"Feingold, Russell D.",Russell D.,Feingold,,,Senate,Wisconsin,Democratic,1993,2011,only-surname
+760,"Burton, Sala",Sala,Burton,,,House,California,Democratic,1983,1989,fail-firstname
+761,"Johnson, Sam",Sam,Johnson,,,House,Texas,Republican,1991,2019,ambiguous
+762,"Nunn, Sam",Sam,Nunn,,,Senate,Georgia,Democratic,1971,1997,fail-firstname
+763,"Steiger, Sam",Sam,Steiger,,,House,Arizona,Republican,1967,1977,fail-lastname
+764,"Hall, Sam B., Jr.","Sam B., Jr.",Hall,,,House,Texas,Democratic,1975,1987,fail-firstname
+765,"Ervin, Sam J., Jr.","Sam J., Jr.",Ervin,,,"House,Senate",North Carolina,Democratic,1945,1975,only-surname
+766,"Young, Samuel H.",Samuel H.,Young,,,House,Illinois,Republican,1973,1975,fail-firstname
+767,"Hayakawa, Samuel Ichiye",Samuel Ichiye,Hayakawa,,,Senate,California,Republican,1977,1983,fail-lastname
+768,"Devine, Samuel L.",Samuel L.,Devine,,,House,Ohio,Republican,1959,1981,fail-firstname
+769,"Stratton, Samuel S.",Samuel S.,Stratton,,,House,New York,Democratic,1959,1989,only-surname
+770,"Baesler, Scotty",Scotty,Baesler,,,House,Kentucky,Democratic,1993,1999,only-surname
+771,"Frahm, Sheila",Sheila,Frahm,,,Senate,Kansas,Republican,1995,1997,fail-lastname
+772,"Chisholm, Shirley",Shirley,Chisholm,,,House,New York,Democratic,1969,1983,only-surname
+773,"Pettis, Shirley N.",Shirley N.,Pettis,,,House,California,Republican,1975,1979,fail-lastname
+774,"Morrison, Sid",Sid,Morrison,,,House,Washington,Republican,1981,1993,fail-firstname
+775,"Conte, Silvio O.",Silvio O.,Conte,,,House,Massachusetts,Republican,1959,1993,fail-lastname
+776,"Callahan, Sonny",Sonny,Callahan,,,House,Alabama,Republican,1985,2003,fail-firstname
+777,"Matsunaga, Spark M.",Spark M.,Matsunaga,,,"House,Senate",Hawaii,Democratic,1963,1991,fail-lastname
+778,"Parris, Stanford E. (Stan)",Stanford E. (Stan),Parris,,,House,Virginia,Republican,1973,1991,fail-lastname
+779,"Lundine, Stanley N.",Stanley N.,Lundine,,,House,New York,Democratic,1975,1987,fail-lastname
+780,"Solarz, Stephen J.",Stephen J.,Solarz,,,House,New York,Democratic,1975,1993,fail-lastname
+781,"Pearce, Stevan",Stevan,Pearce,,,House,New Mexico,Republican,2003,2019,only-surname
+782,"Bartlett, Steve",Steve,Bartlett,,,House,Texas,Republican,1983,1993,fail-firstname
+783,"King, Steve",Steve,King,,,House,Iowa,Republican,2003,2021,ambiguous
+784,"Symms, Steven D.",Steven D.,Symms,,,"House,Senate",Idaho,Republican,1973,1993,fail-lastname
+785,"McKinney, Stewart B.",Stewart B.,McKinney,,,House,Connecticut,Republican,1971,1989,fail-firstname
+786,"Symington, Stuart",Stuart,Symington,,,Senate,Missouri,Democratic,1953,1977,fail-lastname
+787,"Brooks, Susan W.",Susan W.,Brooks,,,House,Indiana,Republican,2013,2021,ambiguous
+788,"Cox, TJ",TJ,Cox,,,House,California,Democratic,2019,2021,fail-firstname
+789,"Weiss, Ted",Ted,Weiss,,,House,New York,Democratic,1977,1993,fail-firstname
+790,"Guyer, Tennyson",Tennyson,Guyer,,,House,Ohio,Republican,1973,1983,fail-lastname
+791,"Roncalio, Teno",Teno,Roncalio,,,House,Wyoming,Democratic,1965,1979,fail-lastname
+792,"Bruce, Terry L.",Terry L.,Bruce,,,House,Illinois,Democratic,1985,1993,fail-firstname
+793,"Dulski, Thaddeus J.",Thaddeus J.,Dulski,,,House,New York,Democratic,1959,1975,fail-lastname
+794,"Risenhoover, Theodore M.",Theodore M.,Risenhoover,,,House,Oklahoma,Democratic,1975,1979,fail-lastname
+795,"Tillis, Thomas",Thomas,Tillis,,,Senate,North Carolina,Republican,2015,9999,only-surname
+796,"Luken, Thomas A.",Thomas A.,Luken,,,House,Ohio,Democratic,1973,1991,fail-lastname
+797,"Evans, Thomas B., Jr.","Thomas B., Jr.",Evans,,,House,Delaware,Republican,1977,1983,fail-firstname
+798,"Morgan, Thomas E.",Thomas E.,Morgan,,,House,Pennsylvania,Democratic,1945,1977,fail-firstname
+799,"Eagleton, Thomas F.",Thomas F.,Eagleton,,,Senate,Missouri,Democratic,1967,1987,fail-lastname
+800,"Railsback, Thomas F.",Thomas F.,Railsback,,,House,Illinois,Republican,1967,1983,fail-lastname
+801,"McIntyre, Thomas J.",Thomas J.,McIntyre,,,Senate,New Hampshire,Democratic,1961,1979,only-surname
+802,"Tauke, Thomas Joseph",Thomas Joseph,Tauke,,,House,Iowa,Republican,1979,1991,fail-lastname
+803,"Ashley, Thomas L.",Thomas L.,Ashley,,,House,Ohio,Democratic,1955,1981,only-surname
+804,"Barrett, Thomas M.",Thomas M.,Barrett,,,House,Wisconsin,Democratic,1993,2003,ambiguous
+805,"Hagedorn, Thomas M.",Thomas M.,Hagedorn,,,House,Minnesota,Republican,1975,1983,only-surname
+806,"Rees, Thomas M.",Thomas M.,Rees,,,House,California,Democratic,1965,1977,fail-firstname
+807,"Reynolds, Thomas M.",Thomas M.,Reynolds,,,House,New York,Republican,1999,2009,ambiguous
+808,"Downing, Thomas N.",Thomas N.,Downing,,,House,Virginia,Democratic,1959,1977,fail-firstname
+809,"Kindness, Thomas N.",Thomas N.,Kindness,,,House,Ohio,Republican,1975,1987,fail-lastname
+810,"O'Neill, Thomas P., Jr.","Thomas P., Jr.",O'Neill,,,House,Massachusetts,Democratic,1953,1987,fail-firstname
+811,"Foley, Thomas S.",Thomas S.,Foley,,,House,Washington,Democratic,1965,1995,ambiguous
+812,"Griffin, Tim",Tim,Griffin,,,House,Arkansas,Republican,2011,2015,ambiguous
+813,"Johnson, Tim",Tim,Johnson,,,"House,Senate",South Dakota,Democratic,1987,2015,ambiguous
+814,"Ryan, Tim",Tim,Ryan,,,House,Ohio,Democratic,2003,2023,ambiguous
+815,"Hall, Tim L.",Tim L.,Hall,,,House,Illinois,Democratic,1975,1977,fail-firstname
+816,"Carter, Tim Lee",Tim Lee,Carter,,,House,Kentucky,Republican,1965,1981,fail-firstname
+817,"Wirth, Timothy",Timothy,Wirth,,,"House,Senate",Colorado,Democratic,1975,1993,fail-firstname
+818,"Johnson, Timothy V.",Timothy V.,Johnson,,,House,Illinois,Republican,2001,2013,ambiguous
+819,"Moffett, Toby",Toby,Moffett,,,House,Connecticut,Democratic,1975,1983,fail-firstname
+820,"Barrett, Tom",Tom,Barrett,,,House,Michigan,Republican,2025,9999,ambiguous
+821,"Campbell, Tom",Tom,Campbell,,,House,California,Republican,1989,2001,ambiguous
+822,"Cole, Tom",Tom,Cole,,,House,Oklahoma,Republican,2003,9999,ambiguous
+823,"Corcoran, Tom",Tom,Corcoran,,,House,Illinois,Republican,1977,1985,only-surname
+824,"Loeffler, Tom",Tom,Loeffler,,,House,Texas,Republican,1979,1987,only-surname
+825,"Reed, Tom",Tom,Reed,,,House,New York,Republican,2010,2022,ambiguous
+826,"Sawyer, Tom",Tom,Sawyer,,,House,Ohio,Democratic,1987,2003,ambiguous
+827,"Steed, Tom",Tom,Steed,,,House,Oklahoma,Democratic,1949,1981,fail-lastname
+828,"Gettys, Tom S.",Tom S.,Gettys,,,House,South Carolina,Democratic,1963,1975,fail-lastname
+829,"Vandergriff, Tommy J.",Tommy J.,Vandergriff,,,House,Texas,Democratic,1983,1985,only-surname
+830,"Macdonald, Torbert H.",Torbert H.,Macdonald,,,House,Massachusetts,Democratic,1955,1977,fail-firstname
+831,"Gudger, V. Lamar",V. Lamar,Gudger,,,House,North Carolina,Democratic,1977,1981,fail-lastname
+832,"Hartke, Vance",Vance,Hartke,,,Senate,Indiana,Democratic,1959,1977,fail-firstname
+833,"Ehlers, Vernon J.",Vernon J.,Ehlers,,,House,Michigan,Republican,1993,2011,only-surname
+834,"Thomson, Vernon W.",Vernon W.,Thomson,,,House,Wisconsin,Republican,1961,1975,fail-lastname
+835,"Fazio, Vic",Vic,Fazio,,,House,California,Democratic,1979,1999,only-surname
+836,"Veysey, Victor V.",Victor V.,Veysey,,,House,California,Republican,1971,1975,fail-lastname
+837,"Weber, Vin",Vin,Weber,,,House,Minnesota,Republican,1981,1993,fail-firstname
+838,"Snowbarger, Vince",Vince,Snowbarger,,,House,Kansas,Republican,1997,1999,only-surname
+839,"Smith, Virginia",Virginia,Smith,,,House,Nebraska,Republican,1975,1991,fail-firstname
+840,"Hefner, W. G. (Bill)",W. G. (Bill),Hefner,,,House,North Carolina,Democratic,1975,1999,only-surname
+841,"Moore, W. Henson",W. Henson,Moore,,,House,Louisiana,Republican,1975,1987,fail-firstname
+842,"Poage, W. R.",W. R.,Poage,,,House,Texas,Democratic,1937,1979,fail-lastname
+843,"Stuckey, W. S. (Bill), Jr.","W. S. (Bill), Jr.",Stuckey,,,House,Georgia,Democratic,1967,1977,fail-lastname
+844,"Bennett, Wallace F.",Wallace F.,Bennett,,,Senate,Utah,Republican,1951,1975,fail-firstname
+845,"Flowers, Walter",Walter,Flowers,,,House,Alabama,Democratic,1969,1979,fail-firstname
+846,"Minnick, Walter",Walter,Minnick,,,House,Idaho,Democratic,2009,2011,only-surname
+847,"Huddleston, Walter (Dee)",Walter (Dee),Huddleston,,,Senate,Kentucky,Democratic,1973,1985,only-surname
+848,"Fauntroy, Walter E.",Walter E.,Fauntroy,,,House,District of Columbia,Democratic,1971,1991,fail-lastname
+849,"Powell, Walter E.",Walter E.,Powell,,,House,Ohio,Republican,1971,1975,fail-firstname
+850,"Rudman, Warren",Warren,Rudman,,,Senate,New Hampshire,Republican,1981,1993,fail-lastname
+851,"Magnuson, Warren G.",Warren G.,Magnuson,,,"House,Senate",Washington,Democratic,1937,1981,only-surname
+852,"Dowdy, Wayne",Wayne,Dowdy,,,House,Mississippi,Democratic,1981,1989,fail-lastname
+853,"Hays, Wayne L.",Wayne L.,Hays,,,House,Ohio,Democratic,1949,1977,fail-firstname
+854,"Grisham, Wayne R.",Wayne R.,Grisham,,,House,California,Republican,1979,1983,fail-firstname
+855,"Bailey, Wendell",Wendell,Bailey,,,House,Missouri,Republican,1981,1983,fail-firstname
+856,"Wyatt, Wendell",Wendell,Wyatt,,,House,Oregon,Republican,1963,1975,fail-firstname
+857,"Anderson, Wendell R.",Wendell R.,Anderson,,,Senate,Minnesota,Democratic,1977,1979,fail-firstname
+858,"Mills, Wilbur D.",Wilbur D.,Mills,,,House,Arkansas,Democratic,1939,1977,fail-firstname
+859,"Mayne, Wiley",Wiley,Mayne,,,House,Iowa,Republican,1967,1975,fail-lastname
+860,"Brodhead, William",William,Brodhead,,,House,Michigan,Democratic,1975,1983,fail-lastname
+861,"Carney, William",William,Carney,,,House,New York,Republican,1979,1987,fail-firstname
+862,"Lehman, William",William,Lehman,,,House,Florida,Democratic,1973,1993,fail-firstname
+863,"Proxmire, William",William,Proxmire,,,Senate,Wisconsin,Democratic,1957,1989,fail-lastname
+864,"Royer, William",William,Royer,,,House,California,Republican,1979,1981,fail-lastname
+865,"Steiger, William A.",William A.,Steiger,,,House,Wisconsin,Republican,1967,1979,fail-lastname
+866,"Saxbe, William B.",William B.,Saxbe,,,Senate,Ohio,Republican,1969,1975,fail-lastname
+867,"Widnall, William B.",William B.,Widnall,,,House,New Jersey,Republican,1949,1975,fail-lastname
+868,"Wampler, William C.",William C.,Wampler,,,House,Virginia,Republican,1953,1983,fail-lastname
+869,"Hathaway, William D.",William D.,Hathaway,,,"House,Senate",Maine,Democratic,1965,1979,only-surname
+870,"Dannemeyer, William E.",William E.,Dannemeyer,,,House,California,Republican,1979,1993,fail-lastname
+871,"Minshall, William E.",William E.,Minshall,,,House,Ohio,Republican,1955,1975,fail-lastname
+872,"Walsh, William F.",William F.,Walsh,,,House,New York,Republican,1973,1979,fail-firstname
+873,"Bray, William G.",William G.,Bray,,,House,Indiana,Republican,1951,1975,fail-firstname
+874,"Boner, William H.",William H.,Boner,,,House,Tennessee,Democratic,1979,1989,fail-lastname
+875,"Harsha, William H.",William H.,Harsha,,,House,Ohio,Republican,1961,1981,fail-lastname
+876,"Gray, William H., III","William H., III",Gray,,,House,Pennsylvania,Democratic,1979,1993,fail-firstname
+877,"Hudnut, William H., III","William H., III",Hudnut,,,House,Indiana,Republican,1973,1975,fail-lastname
+878,"Hughes, William J.",William J.,Hughes,,,House,New Jersey,Democratic,1975,1995,ambiguous
+879,"Randall, William J.",William J.,Randall,,,House,Missouri,Democratic,1959,1977,ambiguous
+880,"Scherle, William J.",William J.,Scherle,,,House,Iowa,Republican,1967,1975,fail-lastname
+881,"Dorn, William Jennings Bryan",William Jennings Bryan,Dorn,,,House,South Carolina,Democratic,1947,1975,only-surname
+882,"Armstrong, William L.",William L.,Armstrong,,,"House,Senate",Colorado,Republican,1973,1991,fail-firstname
+883,"Dickinson, William L.",William L.,Dickinson,,,House,Alabama,Republican,1965,1993,fail-firstname
+884,"Hungate, William L.",William L.,Hungate,,,House,Missouri,Democratic,1963,1977,fail-lastname
+885,"Owens, William L.",William L.,Owens,,,House,New York,Democratic,2009,2015,ambiguous
+886,"Scott, William Lloyd",William Lloyd,Scott,,,"House,Senate",Virginia,Republican,1967,1979,fail-firstname
+887,"Cowan, William M.",William M.,Cowan,,,Senate,Massachusetts,Democratic,2013,2013,fail-firstname
+888,"Ketchum, William M.",William M.,Ketchum,,,House,California,Republican,1973,1979,fail-lastname
+889,"Patman, William N.",William N.,Patman,,,House,Texas,Democratic,1981,1985,fail-lastname
+890,"Mills, William O.",William O.,Mills,,,House,Maryland,Republican,1971,1975,fail-firstname
+891,"Cotter, William R.",William R.,Cotter,,,House,Connecticut,Democratic,1971,1983,only-surname
+892,"Ratchford, William R.",William R.,Ratchford,,,House,Connecticut,Democratic,1979,1985,fail-lastname
+893,"Roy, William R.",William R.,Roy,,,House,Kansas,Democratic,1971,1975,fail-firstname
+894,"Broomfield, William S.",William S.,Broomfield,,,House,Michigan,Republican,1957,1993,only-surname
+895,"Cohen, William S.",William S.,Cohen,,,"House,Senate",Maine,Republican,1973,1997,fail-firstname
+896,"Mailliard, William S.",William S.,Mailliard,,,House,California,Republican,1953,1975,fail-lastname
+897,"Moorhead, William S.",William S.,Moorhead,,,House,Pennsylvania,Democratic,1959,1981,fail-firstname
+898,"Cobey, William W.",William W.,Cobey,,,House,North Carolina,Republican,1985,1987,fail-lastname
+899,"Gradison, Willis D., Jr.","Willis D., Jr.",Gradison,,,House,Ohio,Republican,1975,1995,only-surname
+900,"Mizell, Wilmer",Wilmer,Mizell,,,House,North Carolina,Republican,1969,1975,fail-lastname
+901,"Patman, Wright",Wright,Patman,,,House,Texas,Democratic,1929,1977,fail-lastname
+902,"Burke, Yvonne B.",Yvonne B.,Burke,,,House,California,Democratic,1973,1979,fail-firstname
+903,"Nunn, Zachary",Zachary,Nunn,,,House,Iowa,Republican,2023,9999,fail-firstname
